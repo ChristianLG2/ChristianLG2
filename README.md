@@ -4,11 +4,11 @@
 - Programming: R, Python, SQL  
 - Data Visualization: Tableau, Power BI  
 - Machine Learning: Scikit-Learn, TensorFlow  
-- Cloud & Big Data: AWS, Snowflake  
+
 
 ⚡ **Fun facts:**
 - I speak English, Spanish, Mandarin, and some German
-- At College my second minor was Political science
+- At College my second minor was Political Science
 - I love reading Literature, Philosophy, Economics, etc.
 
 <!--
