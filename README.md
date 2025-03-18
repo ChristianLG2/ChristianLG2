@@ -1,4 +1,5 @@
-## Hi, I am Christian Lira Gonzalez 👋
+<h1>Hi, I am Christian👋<br/><a href="https://www.linkedin.com/in/christianlg/"> Business Analytics & Data Science Professional </a> <h1>
+
 
 <!--
 **ChristianLG2/ChristianLG2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
