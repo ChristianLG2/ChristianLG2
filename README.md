@@ -1,5 +1,4 @@
-<h1>Hi, I am Christian 👋</h1>
-<h2><a href="https://www.linkedin.com/in/christianlg/">Business Analyst & Data Science Professional</a></h2>
+<h1>Hi, I am Christian👋<br/><a href="https://www.linkedin.com/in/christianlg/"> Data Science & Business Systems Analyst Professional </a> <h1>
 
 <h3>🛠️ Tech Stack:</h3>
 <ul>
@@ -10,9 +9,9 @@
 
 <h3>⚡ Fun facts:</h3>
 <ul>
-  <li>I speak English, Spanish, Mandarin, and some German.</li>
+  <li>I speak English, Español, 中文, und ein bisschen Deutsch.</li>
   <li>At college, my second minor was Political Science.</li>
-  <li>I love reading Literature, Philosophy, Economics, etc.</li>
+  <li>I love reading Literature, Philosophy, and Economics</li>
 </ul>
 
 <!--
