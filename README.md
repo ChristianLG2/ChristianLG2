@@ -1,15 +1,19 @@
-<h1>Hi, I am Christian👋<br/><a href="https://www.linkedin.com/in/christianlg/"> Business Analyst & Data Science Professional </a> <h1>
+<h1>Hi, I am Christian 👋</h1>
+<h2><a href="https://www.linkedin.com/in/christianlg/">Business Analyst & Data Science Professional</a></h2>
 
-🛠️ **Tech Stack:**  
-- Programming: R, Python, SQL  
-- Data Visualization: Tableau, Power BI  
-- Machine Learning: Scikit-Learn, TensorFlow  
+<h3>🛠️ Tech Stack:</h3>
+<ul>
+  <li><strong>Programming:</strong> R, Python, SQL</li>
+  <li><strong>Data Visualization:</strong> Tableau, Power BI</li>
+  <li><strong>Machine Learning:</strong> Scikit-Learn, TensorFlow</li>
+</ul>
 
-
-⚡ **Fun facts:**
-- I speak English, Spanish, Mandarin, and some German
-- At College my second minor was Political Science
-- I love reading Literature, Philosophy, Economics, etc.
+<h3>⚡ Fun facts:</h3>
+<ul>
+  <li>I speak English, Spanish, Mandarin, and some German.</li>
+  <li>At college, my second minor was Political Science.</li>
+  <li>I love reading Literature, Philosophy, Economics, etc.</li>
+</ul>
 
 <!--
 **ChristianLG2/ChristianLG2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
