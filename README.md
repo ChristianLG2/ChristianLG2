@@ -9,11 +9,11 @@
 
 <h3>🎓 Professional Certifications and Achievements:</h3>
 <ul>
-  <li><a href="https://www.linkedin.com/learning/certificates/ab53bfaf3812f652da950fcfdaa855c726621f9eb198daf81b923dd48dc3b3f1?u=2153100" target="_blank">Statistics Foundations by Wolfram Research</a></li>
+  <li><a href="https://www.linkedin.com/learning/certificates/ab53bfaf3812f652da950fcfdaa855c726621f9eb198daf81b923dd48dc3b3f1?u=2153100" target="_blank" rel="noopener noreferrer">Statistics Foundations by Wolfram Research</a></li>
   
-  <li><a href="https://www.linkedin.com/learning/certificates/8634afd3e0964772c6ef62d0d7026336f117cdb94d4ce652265049a663c898b2?u=2153100" target="_blank">Agile Project Leadership</a></li>
+  <li><a href="https://www.linkedin.com/learning/certificates/8634afd3e0964772c6ef62d0d7026336f117cdb94d4ce652265049a663c898b2?u=2153100" target="_blank" rel="noopener noreferrer">Agile Project Leadership</a></li>
   
-  <li><a href="https://www.linkedin.com/learning/certificates/4ff7427734fc0037fdece52f645f3bcaee85af611951d2148b8b5bcc88aab7f8?u=2153100" target="_blank">Learning Data Science Asking Great Questions</a></li>
+  <li><a href="https://www.linkedin.com/learning/certificates/4ff7427734fc0037fdece52f645f3bcaee85af611951d2148b8b5bcc88aab7f8?u=2153100" target="_blank" rel="noopener noreferrer">Learning Data Science Asking Great Questions</a></li>
 </ul>
 
 <h3>🛠️ Tech Stack:</h3>
