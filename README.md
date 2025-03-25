@@ -1,12 +1,5 @@
 <h1>Hi, I am Christian👋<br/><a href="https://www.linkedin.com/in/christianlg/"> Data Science & Business Systems Analyst Professional </a> <h1>
 
-<h3>📂 Projects and Repositories:</h3>
-<ul>
-  <li><strong>Programming:</strong> R, Python, SQL</li>
-  <li><strong>Data Visualization:</strong> Tableau, Power BI</li>
-  <li><strong>Machine Learning:</strong> Scikit-Learn, TensorFlow</li>
-</ul>
-
 <h3>🎓 Professional Certifications and Achievements:</h3>
 <ul>
   <li><a href="https://www.linkedin.com/learning/certificates/ab53bfaf3812f652da950fcfdaa855c726621f9eb198daf81b923dd48dc3b3f1?u=2153100" target="_blank" rel="noopener noreferrer">Statistics Foundations by Wolfram Research</a></li>
