@@ -51,6 +51,7 @@ Feel free to explore the repos, check out the dashboards, or connect with me if 
 <ul>
 
    <li><a href="https://www.linkedin.com/in/christianlg/details/certifications" target="_blank" rel="noopener noreferrer"> List of earned Certificates </a></li>
+   <li><a href="https://www.linkedin.com/in/christianlg/details/education" target="_blank" rel="noopener noreferrer"> Education </a></li>
 
 </ul>
 
