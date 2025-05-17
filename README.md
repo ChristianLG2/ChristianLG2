@@ -8,8 +8,15 @@ My work sits at the intersection of these three layers. Through my projects, I a
 
 This GitHub serves as a portfolio of that journey, where I apply a wide variety of tools across different layers of a business to solve problems and create impact across fields.. It’s designed to speak to **Business Leaders**, **Data Scientists**, and **Technical Professionals** alike—anyone who believes that decisions should be backed by insight, and insight by well-structured data and systems.
 
-Feel free to explore the repos, check out the dashboards, or connect with me if you'd like to collaborate.
+**Feel free to explore the repos, check out the dashboards, or connect with me if you'd like to collaborate.**
 
+<h3>🎓 Professional Certifications and Achievements:</h3>
+<ul>
+
+   <li><a href="https://www.linkedin.com/in/christianlg/details/certifications" target="_blank" rel="noopener noreferrer"> List of earned Certificates </a></li>
+   <li><a href="https://www.linkedin.com/in/christianlg/details/education" target="_blank" rel="noopener noreferrer"> Education </a></li>
+
+</ul>
 
 <h3>🛠️ Tech Stack</h3>
 
@@ -45,16 +52,6 @@ Feel free to explore the repos, check out the dashboards, or connect with me if 
   <li><strong>Databases:</strong> MySQL, SQLite</li>
   <li><strong>Other:</strong> GitHub Actions, Docker (beginner), RESTful APIs</li>
 </ul>
-
-
-<h3>🎓 Professional Certifications and Achievements:</h3>
-<ul>
-
-   <li><a href="https://www.linkedin.com/in/christianlg/details/certifications" target="_blank" rel="noopener noreferrer"> List of earned Certificates </a></li>
-   <li><a href="https://www.linkedin.com/in/christianlg/details/education" target="_blank" rel="noopener noreferrer"> Education </a></li>
-
-</ul>
-
 
 <h3>⚡ Fun facts:</h3>
 <ul>
