@@ -1,5 +1,16 @@
 <h1>Hi, I am Christian👋<br/><a href="https://www.linkedin.com/in/christianlg/"> Business Technologist </a> <h1>
 
+<h3>🧠 About My Work</h3>
+
+At the center of every business decision lies data. Surrounding it are the technologies we use to collect, manage, and activate that data. And beyond that, the broader goals of business, finance, and operations that give it all meaning.
+
+My work sits at the intersection of these three layers. Through my projects, I aim to integrate **Data Science**, **Information Technologies**, and **Business Strategy** to build solutions that are insightful, actionable, and aligned with real-world needs. Whether I’m creating machine learning models, building dashboards, designing full-stack applications, or analyzing financial performance, I approach each problem with a systems mindset.
+
+This GitHub serves as a portfolio of that journey, where I apply a wide variety of tools across different layers of a business to solve problems and create impact across fields.. It’s designed to speak to **Business Leaders**, **Data Scientists**, and **Technical Professionals** alike—anyone who believes that decisions should be backed by insight, and insight by well-structured data and systems.
+
+Feel free to explore the repos, check out the dashboards, or connect with me if you'd like to collaborate.
+
+
 <h3>🛠️ Tech Stack</h3>
 
 <h4>📊 Business Intelligence</h4>
