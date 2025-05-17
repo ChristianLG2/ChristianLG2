@@ -3,52 +3,27 @@
 <h3>🧠 About My Work</h3>
 
 At the center of every business decision lies data. Surrounding it are the technologies we use to collect, manage, and activate that data. And beyond that, the broader goals of business, finance, and operations that give it all meaning.
-
 My work sits at the intersection of these three layers. Through my projects, I aim to integrate **Data Science**, **Information Technologies**, and **Business Strategy** to build solutions that are insightful, actionable, and aligned with real-world needs. Whether I’m creating machine learning models, building dashboards, designing full-stack applications, or analyzing financial performance, I approach each problem with a systems mindset.
-
 This GitHub serves as a portfolio of that journey, where I apply a wide variety of tools across different layers of a business to solve problems and create impact across fields.. It’s designed to speak to **Business Leaders**, **Data Scientists**, and **Technical Professionals** alike—anyone who believes that decisions should be backed by insight, and insight by well-structured data and systems.
-
 **Feel free to explore the repos, check out the dashboards, or connect with me if you'd like to collaborate.**
 
 <h3>🎓 Professional Certifications and Achievements:</h3>
 <ul>
-
    <li><a href="https://www.linkedin.com/in/christianlg/details/certifications" target="_blank" rel="noopener noreferrer"> List of earned Certificates </a></li>
    <li><a href="https://www.linkedin.com/in/christianlg/details/education" target="_blank" rel="noopener noreferrer"> Education </a></li>
-
 </ul>
 
 <h3>🛠️ Tech Stack</h3>
 
-<h4>📊 Business Intelligence:</h4> <ul> <li> Tableau, Power BI, Excel (Advanced), Google Looker Studio</li> </ul>
+<p><strong>📊 Business Intelligence:</strong> Tableau, Power BI, Excel & VBA</p>
 
-<h4>📈 Data Science & Analytics</h4>
-<ul>
-  <li><strong>Languages:</strong> Python, R</li>
-  <li><strong>Libraries:</strong> Pandas, NumPy, Matplotlib, ggplot2, dplyr, tidyverse</li>
-  <li><strong>Skills:</strong> Exploratory Data Analysis (EDA), hypothesis testing, regression, forecasting</li>
-</ul>
+<p><strong>📈 Data Science & Analytics:</strong> Python, R, Pandas, NumPy, Matplotlib, ggplot2, dplyr, tidyverse</p>
 
-<h4>🔐 Data Governance & Engineering</h4>
-<ul>
-  <li><strong>Tools:</strong> SQL (PostgreSQL, MySQL), Git & GitHub, DBMS concepts</li>
-  <li><strong>Skills:</strong> ETL pipelines, data cleaning, version control, metadata & schema management</li>
-</ul>
+<p><strong>🔐 Data Governance & Engineering:</strong> SQL (PostgreSQL, MySQL), Git, GitHub, DBMS tools</p>
 
-<h4>🤖 Machine Learning</h4>
-<ul>
-  <li><strong>Frameworks:</strong> Scikit-learn, TensorFlow (basic), IBM Watson ML</li>
-  <li><strong>Techniques:</strong> Classification, clustering, model evaluation, fraud detection, NLP basics</li>
-</ul>
+<p><strong>🤖 Machine Learning:</strong> Scikit-learn, TensorFlow </p>
 
-<h4>🌐 Full-Stack (In Progress)</h4>
-<ul>
-  <li><strong>Frontend:</strong> HTML, CSS, JavaScript (React in progress)</li>
-  <li><strong>Backend:</strong> Python (Flask), Node.js (beginner)</li>
-  <li><strong>Databases:</strong> MySQL, SQLite</li>
-  <li><strong>Other:</strong> GitHub Actions, Docker (beginner), RESTful APIs</li>
-</ul>
-
+<p><strong>🌐 Full-Stack Development:</strong> HTML, CSS, JavaScript (React), Python (Flask), Node.js, MySQL, SQLite, REST APIs, Docker, GitHub Actions</p>
 
 <h3>⚡ Fun facts:</h3>
 <ul>
