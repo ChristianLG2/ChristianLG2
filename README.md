@@ -39,7 +39,7 @@
 <h3>🎓 Professional Certifications and Achievements:</h3>
 <ul>
 
-   <li><a href="[https://www.linkedin.com/in/christianlg/details/certifications" target="_blank" rel="noopener noreferrer"> List of earned Certificates </a></li>
+   <li><a href="https://www.linkedin.com/in/christianlg/details/certifications" target="_blank" rel="noopener noreferrer"> List of earned Certificates </a></li>
 
    <li><a href="https://www.linkedin.com/learning/certificates/e2808870e7828d799039872ad55908b667682d02bcf5f115ab8a75d0cfe6e2d5?u=2153100" target="_blank" rel="noopener noreferrer">Essentials in Business Analysis by Miscrosoft</a></li>
    
