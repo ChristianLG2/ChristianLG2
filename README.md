@@ -21,37 +21,10 @@ This GitHub serves as a portfolio of that journey, where I apply a wide variety 
 <h3>🛠️ Tech Stack</h3>
 
 <h4>📊 Business Intelligence</h4>
-<ul>
-  <li><strong>Tools:</strong> Tableau, Power BI, Excel & VBA</li>
-  <li><strong>Skills:</strong> KPI development, dashboarding, data storytelling, stakeholder reporting</li>
-</ul>
-
 <h4>📈 Data Science & Analytics</h4>
-<ul>
-  <li><strong>Languages:</strong> Python, R, SQL</li>
-  <li><strong>Libraries:</strong> Pandas, NumPy, Matplotlib, ggplot2, dplyr, tidyverse</li>
-  <li><strong>Skills:</strong> Exploratory Data Analysis (EDA), hypothesis testing, regression, forecasting</li>
-</ul>
-
 <h4>🔐 Data Governance & Engineering</h4>
-<ul>
-  <li><strong>Tools:</strong> SQL (PostgreSQL, MySQL), Git & GitHub, DBMS concepts</li>
-  <li><strong>Skills:</strong> ETL pipelines, data cleaning, version control, metadata & schema management</li>
-</ul>
-
 <h4>🤖 Machine Learning</h4>
-<ul>
-  <li><strong>Frameworks:</strong> Scikit-learn, TensorFlow (beginner))</li>
-  <li><strong>Techniques:</strong> Classification, clustering, model evaluation, fraud detection, NLP basics</li>
-</ul>
-
-<h4>🌐 Full-Stack (In Progress)</h4>
-<ul>
-  <li><strong>Frontend:</strong> HTML, CSS, JavaScript</li>
-  <li><strong>Backend:</strong> Python (Flask), Node.js (beginner)</li>
-  <li><strong>Databases:</strong> MySQL, SQLite</li>
-  <li><strong>Other:</strong> GitHub Actions, Docker (beginner), RESTful APIs</li>
-</ul>
+<h4>🌐 Full-Stack</h4>
 
 <h3>⚡ Fun facts:</h3>
 <ul>
