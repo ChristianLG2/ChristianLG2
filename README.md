@@ -1,4 +1,4 @@
-<h1>Hi, I am Christian👋<br/><a href="https://www.linkedin.com/in/christianlg/"> Business Technologist | Bridging Data Science, Analytics, Business and Financial Strategy  </a> <h1>
+<h1>Hi, I am Christian👋<br/><a href="https://www.linkedin.com/in/christianlg/"> Business Technologist </a> <h1>
 
 <h3>🛠️ Tech Stack</h3>
 
