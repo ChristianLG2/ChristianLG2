@@ -1,15 +1,15 @@
 <h1>Hi, I am Christian Lira G.<br/><a href="https://www.linkedin.com/in/christianlg/"> Business Technologist </a> <h1>
 
-<h3>⚠️ Repository Under Maintenance<h3> 
+<h3>⚠️ Repository Under Maintenance</h3>
 
 Thank you for visiting my GitHub! I'm currently restructuring and updating my repositories to better showcase my projects across Data Science, Business Intelligence, Data Engineering, and Web Development.
 
 You may notice that:
-- Some files or subfolders are temporarily missing
-- Certain GitHub Pages may not be working as expected
-- Repository names or contents might change over the next few days
+- Some files or subfolders are temporarily missing  
+- Certain GitHub Pages may not be working as expected  
+- Repository names or contents might change over the next few days  
 
-🎯 Why?
+🎯 **Why?**  
 I’m organizing my work for clarity, professional presentation, and future portfolio expansion.
 
 If you’re looking for a specific file, dataset, or project that appears missing, feel free to open an issue or contact me directly.
