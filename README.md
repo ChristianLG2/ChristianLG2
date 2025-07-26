@@ -1,4 +1,4 @@
-<h1>Hi, I am Christian Lira G.<br/><a href="https://www.linkedin.com/in/christianlg/"> Business Technologist </a> <h1>
+<h1>Hi, I am Christian Lira G.<h1>
 
 <h3>⚠️ Repository Under Maintenance</h3>
 
