@@ -1,15 +1,21 @@
 <h1>Hi, I am Christian Lira G.<h1>
    
-<div align="center">
-![Christian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChristianLG2&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChristianLG2&show_icons=true&theme=radical" alt="Christian's GitHub Stats" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianLG2&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com?user=ChristianLG2&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianLG2&layout=compact" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=ChristianLG2&theme=dark" alt="GitHub Streak" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ChristianLG2&color=blue)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/christianlg/)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ChristianLG2&color=blue" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/christianlg/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+</p>
 
-</div>
 
 <h3>⚠️ Repository Under Maintenance</h3>
 
