@@ -2,6 +2,7 @@
    
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ChristianLG2&show_icons=true&theme=radical" alt="Christian's GitHub Stats" />
+   <img src="https://streak-stats.demolab.com?user=ChristianLG2&theme=dark" alt="GitHub Streak" />
 </p>
 
 <p align="center">
