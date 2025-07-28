@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-   <img src="https://streak-stats.demolab.com?user=ChristianLG2&theme=dark&background=000000&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFFFFF&dates=CCCCCC&stroke=CCCCCC" alt="GitHub Streak"/> 
+   <img src="https://github-readme-stats.vercel.app/api?username=ChristianLG2&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
 <p align="center">
