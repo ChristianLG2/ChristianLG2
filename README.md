@@ -1,8 +1,10 @@
 <h1>Hi, I am Christian Lira G.<h1>
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianLG2&layout=compact" alt="Top Languages" />
+  <img src="https://komarev.com/ghpvc/?username=ChristianLG2&color=blue" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/christianlg/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
 </p>
 
 <p align="center">
@@ -11,12 +13,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChristianLG2&color=blue" alt="Profile Views" />
-  <a href="https://www.linkedin.com/in/christianlg/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianLG2&layout=compact" alt="Top Languages" />
 </p>
-
 
 <h3>⚠️ Repository Under Maintenance</h3>
 
