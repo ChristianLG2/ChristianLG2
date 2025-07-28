@@ -60,10 +60,10 @@ This GitHub serves as a portfolio of that journey, where I apply a wide variety 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ChristianLG2&show_icons=true&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=000000&hide_border=true" alt="Christian's GitHub Stats" />
+   <img src="https://streak-stats.demolab.com?user=ChristianLG2&theme=dark&background=000000&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFFFFF&dates=CCCCCC&stroke=CCCCCC" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ChristianLG2&theme=dark&background=000000&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFFFFF&dates=CCCCCC&stroke=CCCCCC" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianLG2&layout=compact&title_color=FFD700&text_color=ffffff&bg_color=000000&border_color=FFD700" alt="Top Languages" />
 </p>
 
