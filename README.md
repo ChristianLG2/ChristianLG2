@@ -62,6 +62,7 @@ This GitHub serves as a portfolio of that journey, where I apply a wide variety 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ChristianLG2&theme=dark)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ChristianLG2&color=blue)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/christianlg/)
 
 
 <!--
