@@ -52,6 +52,18 @@ This GitHub serves as a portfolio of that journey, where I apply a wide variety 
   <li>In my free time, I enjoy reading works in literature, philosophy, and economics, which deepen my understanding of human behavior, systems, and decision-making.</li>
 </ul>
 
+
+<h3>Badges<h3>
+
+![Christian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CLiraGo&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CLiraGo&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=CLiraGo&theme=dark)
+
+![Profile Views](https://komarev.com/ghpvc/?username=CLiraGo&color=blue)
+
+
 <!--
 **ChristianLG2/ChristianLG2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
