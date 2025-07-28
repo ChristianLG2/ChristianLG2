@@ -1,4 +1,6 @@
-<h1>Hi, I am Christian Lira G.<h1>
+<p align="center">
+  <h1>Hi, I am Christian Lira G.<h1>
+</p>
 
 <p align="center">
   <img src="李浩峰.png" alt="Christian Lira Banner" width="600" />
