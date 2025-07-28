@@ -55,13 +55,13 @@ This GitHub serves as a portfolio of that journey, where I apply a wide variety 
 
 <h3>Badges<h3>
 
-![Christian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CLiraGo&show_icons=true&theme=radical)
+![Christian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChristianLG2&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CLiraGo&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianLG2&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=CLiraGo&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=ChristianLG2&theme=dark)
 
-![Profile Views](https://komarev.com/ghpvc/?username=CLiraGo&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=ChristianLG2&color=blue)
 
 
 <!--
