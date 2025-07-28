@@ -9,8 +9,8 @@
    <img src="https://github-readme-stats.vercel.app/api?username=ChristianLG2&show_icons=true&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=000000&hide_border=true" alt="Christian's GitHub Stats" />
 </p>
 
-<p align="center">
-   <img src="https://streak-stats.demolab.com?user=ChristianLG2&theme=dark&background=000000&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFFFFF&dates=CCCCCC&stroke=CCCCCC" alt="GitHub Streak" />
+<p/> align="center">
+   <img src="https://streak-stats.demolab.com?user=ChristianLG2&theme=dark&background=000000&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFFFFF&dates=CCCCCC&stroke=CCCCCC" alt="GitHub Streak" 
 </p>
 
 <p align="center">
