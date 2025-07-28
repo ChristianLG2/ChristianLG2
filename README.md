@@ -10,10 +10,6 @@
 </p>
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=ChristianLG2&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=ChristianLG2&color=FFD700" alt="Profile Views" height="30" />
   <a href="https://www.linkedin.com/in/christianlg/">
     <img src="https://img.shields.io/badge/LinkedIn-%23FFD700?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
