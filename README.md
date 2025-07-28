@@ -1,5 +1,16 @@
 <h1>Hi, I am Christian Lira G.<h1>
    
+<div align="center">
+![Christian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChristianLG2&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianLG2&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=ChristianLG2&theme=dark)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ChristianLG2&color=blue)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/christianlg/)
+
+</div>
+
 <h3>⚠️ Repository Under Maintenance</h3>
 
 Thank you for visiting my GitHub! I'm currently restructuring and updating my repositories to better showcase my projects across Data Science, Business Intelligence, Data Engineering, and Web Development.
@@ -53,16 +64,9 @@ This GitHub serves as a portfolio of that journey, where I apply a wide variety 
 </ul>
 
 
-<h3>Badges<h3>
 
-![Christian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChristianLG2&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianLG2&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ChristianLG2&theme=dark)
-
-![Profile Views](https://komarev.com/ghpvc/?username=ChristianLG2&color=blue)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/christianlg/)
 
 
 <!--
