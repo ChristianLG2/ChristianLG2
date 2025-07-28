@@ -4,13 +4,6 @@
   <img src="李浩峰.png" alt="Christian Lira Banner" width="600" />
 </p>
 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChristianLG2&color=FFD700" alt="Profile Views" height="30" />
-  <a href="https://www.linkedin.com/in/christianlg/">
-    <img src="https://img.shields.io/badge/LinkedIn-%23FFD700?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianLG2&layout=compact&title_color=FFD700&text_color=ffffff&bg_color=000000&border_color=FFD700" alt="Top Languages" />
    <img src="https://github-readme-stats.vercel.app/api?username=ChristianLG2&show_icons=true&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=000000&hide_border=true" alt="Christian's GitHub Stats" />
@@ -18,6 +11,13 @@
 
 <p align="center">
    <img src="https://streak-stats.demolab.com?user=ChristianLG2&theme=dark&background=000000&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFFFFF&dates=CCCCCC&stroke=CCCCCC" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ChristianLG2&color=FFD700" alt="Profile Views" height="30" />
+  <a href="https://www.linkedin.com/in/christianlg/">
+    <img src="https://img.shields.io/badge/LinkedIn-%23FFD700?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 <h3>⚠️ Repository Under Maintenance</h3>
