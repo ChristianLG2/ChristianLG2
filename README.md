@@ -9,7 +9,7 @@ Thank you for visiting my GitHub! I'm currently restructuring and updating my re
 You may notice that:
 - Some files or subfolders are temporarily missing  
 - Certain GitHub Pages may not be working as expected  
-- Repository names or contents might change over the next few days  
+- Repository names or contents might change over the next few weeks  
 
 🎯 **Why?**  
 I’m organizing my work for clarity, professional presentation, and future portfolio expansion.
