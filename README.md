@@ -1,4 +1,7 @@
-<h1 align="center">Hi, I am Christian Lira G.</h1>
+
+<p align="center">
+  <img src="LinkedIn Banner.png" alt="LinkedIn Banner Banner" width="600" />
+</p>
 
 
 
