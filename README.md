@@ -4,37 +4,16 @@
 </p>
 
 
-<style>
-  .card-wrapper {
-    display: inline-block;
-    padding: 4px; /* Border thickness */
-    border-radius: 12px;
-    background: linear-gradient(90deg, #4DB5FF, #B14DFF);
-  }
-  .card-wrapper img {
-    border-radius: 8px; /* Slightly smaller than wrapper */
-    display: block;
-  }
-</style>
-
 <p align="center">
-  <span class="card-wrapper">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianLG2&layout=compact&title_color=4DB5FF&text_color=ffffff&bg_color=000000&border_color=00000000" alt="Top Languages" />
-  </span>
-  <span class="card-wrapper">
-    <img src="https://github-readme-stats.vercel.app/api?username=ChristianLG2&show_icons=true&title_color=4DB5FF&icon_color=B14DFF&text_color=ffffff&bg_color=000000&hide_border=true" alt="Christian's GitHub Stats" />
-  </span>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianLG2&layout=compact&title_color=4DB5FF&text_color=ffffff&bg_color=000000&border_color=B14DFF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChristianLG2&show_icons=true&title_color=4DB5FF&icon_color=B14DFF&text_color=ffffff&bg_color=000000&border_color=B14DFF" alt="Christian's GitHub Stats" />
 </p>
 
 <p align="center">
-  <span class="card-wrapper">
-    <img src="https://komarev.com/ghpvc/?username=ChristianLG2&color=000000&style=flat" alt="Profile Views" height="30" />
-  </span>
-  <span class="card-wrapper">
-    <a href="https://www.linkedin.com/in/christianlg/">
-      <img src="https://img.shields.io/badge/LinkedIn-%23000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </span>
+  <img src="https://komarev.com/ghpvc/?username=ChristianLG2&color=4DB5FF" alt="Profile Views" height="30" />
+  <a href="https://www.linkedin.com/in/christianlg/">
+    <img src="https://img.shields.io/badge/LinkedIn-%23B14DFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 <h3>⚠️ Repository Under Maintenance</h3>
