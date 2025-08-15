@@ -5,16 +5,17 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianLG2&layout=compact&title_color=FFD700&text_color=ffffff&bg_color=000000&border_color=FFD700" alt="Top Languages" />
-   <img src="https://github-readme-stats.vercel.app/api?username=ChristianLG2&show_icons=true&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=000000&hide_border=true" alt="Christian's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianLG2&layout=compact&title_color=4DB5FF&text_color=ffffff&bg_color=000000&border_color=B14DFF" alt="Top Languages" />
+   <img src="https://github-readme-stats.vercel.app/api?username=ChristianLG2&show_icons=true&title_color=4DB5FF&icon_color=B14DFF&text_color=ffffff&bg_color=000000&hide_border=true" alt="Christian's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChristianLG2&color=FFD700" alt="Profile Views" height="30" />
+  <img src="https://komarev.com/ghpvc/?username=ChristianLG2&color=4DB5FF" alt="Profile Views" height="30" />
   <a href="https://www.linkedin.com/in/christianlg/">
-    <img src="https://img.shields.io/badge/LinkedIn-%23FFD700?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%23B14DFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
 
 <h3>⚠️ Repository Under Maintenance</h3>
 
