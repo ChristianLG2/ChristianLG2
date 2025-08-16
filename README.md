@@ -37,19 +37,19 @@ Thanks for your patience while everything gets a proper refresh! 🙌
 
 
 <p align="center">
-  <img src="assets/westmark.png" alt="westmark" width="300" />
+  <img src="assets/westmark.png" alt="westmark" width="100" />
 </p>
 
 <p align="center">
-  <img src="assets/Tesla_logo.png" alt="Tesla" width="300" />
+  <img src="assets/Tesla_logo.png" alt="Tesla" width="100" />
 </p>
 
 <p align="center">
-  <img src="assets/OpenTeams.png" alt="OpenTeams" width="300" />
+  <img src="assets/OpenTeams.png" alt="OpenTeams" width="100" />
 </p>
 
 <p align="center">
-  <img src="assets/Brigham_Young_University-Idaho_medallion.svg.png" alt="Brigham_Young_University-Idaho" width="300" />
+  <img src="assets/Brigham_Young_University-Idaho_medallion.svg.png" alt="Brigham_Young_University-Idaho" width="100" />
 </p>
 
 
