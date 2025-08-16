@@ -79,7 +79,7 @@ Through my academic and professional journey, I’ve had the opportunity to cont
 
 <p align="center">
   <a href="https://www.linkedin.com/in/christianlg/details/experience/" target="_blank">
-    <img src="https://img.shields.io/badge/See%20More%20Experiences-%234DB5FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="See More on LinkedIn"/>
+    <img src="https://img.shields.io/badge/See%20More%20Experiences-%23B14DFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="See More on LinkedIn"/>
   </a>
 </p>
   
