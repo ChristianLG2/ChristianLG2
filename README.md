@@ -27,6 +27,27 @@
   
 ---
 
+## 🧠 About My Work
+
+At the center of every business decision lies **data**. Surrounding it are the technologies we use to collect, manage, and activate that data. And beyond that, the broader goals of business, finance, and operations that give it all meaning.
+
+My work sits at the intersection of these three layers. Through my projects, I aim to integrate **Data Science**, **Information Technologies**, and **Business Strategy** to build solutions that are insightful, actionable, and aligned with real-world needs.  
+
+Whether I’m creating machine learning models, building dashboards, designing full-stack applications, or analyzing financial performance, I approach each problem with a **systems mindset**.
+
+This GitHub serves as a portfolio of that journey. It’s designed to speak to **Business Leaders**, **Data Scientists**, and **Technical Professionals** alike.  
+
+---
+
+## 🛠️ Tech Stack
+- **📊 Business Intelligence** → Tableau, Power BI, Excel & VBA  
+- **📈 Data Science & Analytics** → Python, R, Pandas, NumPy, Matplotlib, ggplot2, dplyr, tidyverse  
+- **🔐 Data Governance & Engineering** → SQL (PostgreSQL, MySQL), Git, GitHub, DBMS tools  
+- **🤖 Machine Learning** → Scikit-learn, TensorFlow  
+- **🌐 Full-Stack Development** → HTML, CSS, JavaScript (React), Python (Flask), Node.js, REST APIs, Docker, GitHub Actions  
+
+---
+
 ## 🏢 Past Work Experiences
 
 Through my academic and professional journey, I’ve had the opportunity to contribute to projects and initiatives at:
@@ -47,28 +68,7 @@ Through my academic and professional journey, I’ve had the opportunity to cont
     </td>
   </tr>
 </table>
-
----
-
-## 🧠 About My Work
-
-At the center of every business decision lies **data**. Surrounding it are the technologies we use to collect, manage, and activate that data. And beyond that, the broader goals of business, finance, and operations that give it all meaning.
-
-My work sits at the intersection of these three layers. Through my projects, I aim to integrate **Data Science**, **Information Technologies**, and **Business Strategy** to build solutions that are insightful, actionable, and aligned with real-world needs.  
-
-Whether I’m creating machine learning models, building dashboards, designing full-stack applications, or analyzing financial performance, I approach each problem with a **systems mindset**.
-
-This GitHub serves as a portfolio of that journey. It’s designed to speak to **Business Leaders**, **Data Scientists**, and **Technical Professionals** alike.  
-
----
-
-## 🛠️ Tech Stack
-- **📊 Business Intelligence** → Tableau, Power BI, Excel & VBA  
-- **📈 Data Science & Analytics** → Python, R, Pandas, NumPy, Matplotlib, ggplot2, dplyr, tidyverse  
-- **🔐 Data Governance & Engineering** → SQL (PostgreSQL, MySQL), Git, GitHub, DBMS tools  
-- **🤖 Machine Learning** → Scikit-learn, TensorFlow  
-- **🌐 Full-Stack Development** → HTML, CSS, JavaScript (React), Python (Flask), Node.js, REST APIs, Docker, GitHub Actions  
-
+  
 ---
 
 ## 🎓 Certifications & Education
