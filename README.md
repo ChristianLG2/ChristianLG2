@@ -20,9 +20,8 @@
 
 ## 📌 Quick Highlights
 - 📊 Transforming raw data into **insights** with Business Analytics & Data Science  
-- ⚙️ Building **data pipelines, dashboards, and full-stack apps** for real-world impact  
-- 🏢 Experience at **Tesla, OpenTeams, Westmark, and BYU–Idaho**  
-- 🌍 Multilingual communicator (English, Español, 中文, Deutsch)  
+- ⚙️ Building **data pipelines, dashboards, and full-stack apps** for real-world impact   
+- 🌍 Multilingual communicator (English, Español, 中文)  
 - 📚 Passionate about literature, philosophy, and economics — exploring human behavior and decision-making
   
 ---
