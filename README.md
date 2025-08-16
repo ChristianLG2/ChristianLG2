@@ -74,6 +74,8 @@ This GitHub serves as a portfolio of that journey, where I apply a wide variety 
 
 <h3>Past Work Experiences:</h3>
 
+Through my academic and professional journey, I’ve had the opportunity to contribute to projects and initiatives at: 
+
 <table width="100%">
   <tr>
     <td align="center" width="25%">
