@@ -101,7 +101,7 @@ Through my academic and professional journey, I’ve had the opportunity to cont
 ---
 
 💡 *I’m passionate about connecting data, technology, and strategy to solve problems.*  
-📬 Let’s connect → [LinkedIn](https://www.linkedin.com/in/christianlg/) | [Portfolio](https://www.cirago.com) | [Email](mailto:lir18001@byui.edu)
+📬 Let’s connect → [LinkedIn](https://www.linkedin.com/in/christianlg/) | [Portfolio](https://www.clirago.com) | [Email](mailto:lir18001@byui.edu)
 
 
 
