@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Christian Lira G.
+## 🙋‍♂️ Christian Lira G.
 *Business Analytics • Data Science • Data Engineering • Machine Learning*
 
 📊 Turning raw data into actionable insights | ⚙️ Building end-to-end data & full-stack solutions | 🌍 Globally minded & multilingual
