@@ -36,10 +36,10 @@ Thanks for your patience while everything gets a proper refresh! 🙌
 <h3>🧠 About My Work</h3>
 
 <p align="center">
-  <img src="assets/westmark.png" alt="Westmark" width="80" />
   <img src="assets/Tesla_logo.png" alt="Tesla" width="80" />
+  <img src="assets/Brigham_Young_University–Idaho_medallion.svg.png" alt="BYU-Idaho" width="100" />
   <img src="assets/OpenTeams.png" alt="OpenTeams" width="80" />
-  <img src="assets/Brigham_Young_University-Idaho_medallion.svg.png" alt="BYU-Idaho" width="100" />
+  <img src="assets/westmark.png" alt="Westmark" width="80" />
 </p>
 
 
