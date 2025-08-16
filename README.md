@@ -35,11 +35,11 @@ Thanks for your patience while everything gets a proper refresh! 🙌
 
 <h3>🧠 About My Work</h3>
 
-<div style="display: flex; justify-content: space-evenly; align-items: center; margin-top: 20px;">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; margin: 30px 0;">
   <img src="assets/westmark.png" alt="westmark" width="80" />
   <img src="assets/Tesla_logo.png" alt="tesla" width="80" />
   <img src="assets/OpenTeams.png" alt="OpenTeams" width="80" />
-  <img src="assets/Brigham_Young_University–Idaho_medallion.svg.png" alt="Brigham Young University-Idaho" width="80" />
+  <img src="assets/Brigham_Young_University–Idaho_medallion.svg.png" alt="BYU-Idaho" width="100" />
 </div>
 
 
