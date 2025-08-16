@@ -23,7 +23,8 @@
 - ⚙️ Building **data pipelines, dashboards, and full-stack apps** for real-world impact  
 - 🏢 Experience at **Tesla, OpenTeams, Westmark, and BYU–Idaho**  
 - 🌍 Multilingual communicator (English, Español, 中文, Deutsch)  
-
+- 📚 Passionate about literature, philosophy, and economics — exploring human behavior and decision-making
+  
 ---
 
 ## 🏢 Past Work Experiences
@@ -73,14 +74,6 @@ This GitHub serves as a portfolio of that journey. It’s designed to speak to *
 ## 🎓 Certifications & Education
 - 📜 [List of earned Certificates](https://www.linkedin.com/in/christianlg/details/certifications)  
 - 🎓 [Education](https://www.linkedin.com/in/christianlg/details/education)  
-
----
-
-## ⚡ Fun Facts
-- 🌍 Multilingual: English, Spanish (Español), Chinese (中文), German (Deutsch)  
-- 🎓 Dual background in **Analytics & Political Science**  
-- 📚 Passionate about literature, philosophy, and economics — exploring human behavior and decision-making  
-- 🤖 Robotics tinkerer & gamer on the side  
 
 ---
 
