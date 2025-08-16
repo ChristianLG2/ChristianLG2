@@ -35,12 +35,13 @@ Thanks for your patience while everything gets a proper refresh! 🙌
 
 <h3>🧠 About My Work</h3>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 40px; margin-top: 20px;">
+<div style="display: flex; justify-content: space-evenly; align-items: center; margin-top: 20px;">
   <img src="assets/westmark.png" alt="westmark" width="80" />
   <img src="assets/Tesla_logo.png" alt="tesla" width="80" />
   <img src="assets/OpenTeams.png" alt="OpenTeams" width="80" />
-  <img src="assets/Brigham_Young_University-Idaho_medallion.svg.png" alt="Brigham Young University-Idaho" width="80" />
+  <img src="assets/Brigham_Young_University–Idaho_medallion.svg.png" alt="Brigham Young University-Idaho" width="80" />
 </div>
+
 
 At the center of every business decision lies data. Surrounding it are the technologies we use to collect, manage, and activate that data. And beyond that, the broader goals of business, finance, and operations that give it all meaning.
 
