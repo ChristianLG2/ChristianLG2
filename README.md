@@ -48,31 +48,45 @@ This GitHub serves as a portfolio of that journey. It’s designed to speak to *
 
 ---
 
-## 🏢 Past Work Experiences
+## 🏢 Past Work Experiences  
 
 Through my academic and professional journey, I’ve had the opportunity to contribute to projects and initiatives at:
 
 <table width="100%">
   <tr>
     <td align="center" width="25%">
-      <img src="assets/Tesla_logo.png" alt="Tesla" height="60"><br><sub>Tesla</sub>
+      <a href="https://www.tesla.com/" target="_blank">
+        <img src="assets/Tesla_logo.png" alt="Tesla" height="60"><br><sub>Tesla</sub>
+      </a>
     </td>
     <td align="center" width="25%">
-      <img src="assets/Brigham_Young_University–Idaho_medallion.svg.png" alt="BYU-Idaho" height="60"><br><sub>BYU–Idaho</sub>
+      <a href="https://www.byui.edu/" target="_blank">
+        <img src="assets/Brigham_Young_University–Idaho_medallion.svg.png" alt="BYU-Idaho" height="60"><br><sub>BYU–Idaho</sub>
+      </a>
     </td>
     <td align="center" width="25%">
-      <img src="assets/OpenTeams.png" alt="OpenTeams" height="60"><br><sub>OpenTeams</sub>
+      <a href="https://openteams.com/" target="_blank">
+        <img src="assets/OpenTeams.png" alt="OpenTeams" height="60"><br><sub>OpenTeams</sub>
+      </a>
     </td>
     <td align="center" width="25%">
-      <img src="assets/westmark.png" alt="Westmark" height="60"><br><sub>Westmark Credit Union</sub>
+      <a href="https://www.westmark.org/" target="_blank">
+        <img src="assets/westmark.png" alt="Westmark Credit Union" height="60"><br><sub>Westmark Credit Union</sub>
+      </a>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/christianlg/details/experience/" target="_blank">
+    <img src="https://img.shields.io/badge/See%20More%20Experiences-%234DB5FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="See More on LinkedIn"/>
+  </a>
+</p>
   
 ---
 
 ## 🎓 Certifications & Education
-- 📜 [List of earned Certificates](https://www.linkedin.com/in/christianlg/details/certifications)  
+- 📜 [List of Earned Certificates](https://www.linkedin.com/in/christianlg/details/certifications)  
 - 🎓 [Education](https://www.linkedin.com/in/christianlg/details/education)  
 
 ---
