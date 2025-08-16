@@ -35,6 +35,24 @@ Thanks for your patience while everything gets a proper refresh! 🙌
 
 <h3>🧠 About My Work</h3>
 
+
+<p align="center">
+  <img src="assets/westmark.png" alt="westmark" width="300" />
+</p>
+
+<p align="center">
+  <img src="assets/Tesla_logo.png" alt="Tesla" width="300" />
+</p>
+
+<p align="center">
+  <img src="assets/OpenTeams.png" alt="OpenTeams" width="300" />
+</p>
+
+<p align="center">
+  <img src="assets/Brigham_Young_University-Idaho_medallion.svg.png" alt="Brigham_Young_University-Idaho" width="300" />
+</p>
+
+
 At the center of every business decision lies data. Surrounding it are the technologies we use to collect, manage, and activate that data. And beyond that, the broader goals of business, finance, and operations that give it all meaning.
 
 My work sits at the intersection of these three layers. Through my projects, I aim to integrate **Data Science**, **Information Technologies**, and **Business Strategy** to build solutions that are insightful, actionable, and aligned with real-world needs. Whether I’m creating machine learning models, building dashboards, designing full-stack applications, or analyzing financial performance, I approach each problem with a systems mindset.
