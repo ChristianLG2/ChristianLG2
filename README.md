@@ -38,15 +38,6 @@ This GitHub serves as a portfolio of that journey. It’s designed to speak to *
 
 ---
 
-## 🛠️ Tech Stack
-- **📊 Business Intelligence** → Tableau, Power BI, Excel & VBA  
-- **📈 Data Science & Analytics** → Python, R, Pandas, NumPy, Matplotlib, ggplot2, dplyr, tidyverse  
-- **🔐 Data Governance & Engineering** → SQL (PostgreSQL, MySQL), Git, GitHub, DBMS tools  
-- **🤖 Machine Learning** → Scikit-learn, TensorFlow  
-- **🌐 Full-Stack Development** → HTML, CSS, JavaScript (React), Python (Flask), Node.js, REST APIs, Docker, GitHub Actions  
-
----
-
 ## 🏢 Past Work Experiences  
 
 Through my academic and professional journey, I’ve had the opportunity to contribute to projects and initiatives at:
@@ -87,6 +78,15 @@ Through my academic and professional journey, I’ve had the opportunity to cont
 ## 🎓 Certifications & Education
 - 📜 [List of Earned Certificates](https://www.linkedin.com/in/christianlg/details/certifications)  
 - 🎓 [Education](https://www.linkedin.com/in/christianlg/details/education)  
+
+---
+
+## 🛠️ Tech Stack
+- **📊 Business Intelligence** → Tableau, Power BI, Excel & VBA  
+- **📈 Data Science & Analytics** → Python, R, Pandas, NumPy, Matplotlib, ggplot2, dplyr, tidyverse  
+- **🔐 Data Governance & Engineering** → SQL (PostgreSQL, MySQL), Git, GitHub, DBMS tools  
+- **🤖 Machine Learning** → Scikit-learn, TensorFlow  
+- **🌐 Full-Stack Development** → HTML, CSS, JavaScript (React), Python (Flask), Node.js, REST APIs, Docker, GitHub Actions
 
 ---
 
