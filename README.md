@@ -45,13 +45,13 @@ At Brigham Young University–Idaho, I developed a strong foundation in Business
 To learn more about my academic background, certifications, and professional experience, explore:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/christianlg/details/education">
-    <img src="https://img.shields.io/badge/Education-%23B14DFF?style=for-the-badge&logoColor=white" alt="Education" />
+  <a href="https://www.linkedin.com/in/christianlg/details/education" target="_blank">
+    <img src="https://img.shields.io/badge/Education-%23B14DFF?style=for-the-badge&logo=graduatcap&logoColor=white" alt="Education" />
   </a>
-  <a href="https://www.linkedin.com/in/christianlg/details/certifications">
-    <img src="https://img.shields.io/badge/Certifications-%23B14DFF?style=for-the-badge&logoColor=white" alt="Certifications" />
+  <a href="https://www.linkedin.com/in/christianlg/details/certifications" target="_blank">
+    <img src="https://img.shields.io/badge/Certifications-%23B14DFF?style=for-the-badge&logo=awards&logoColor=white" alt="Certifications" />
   </a>
-  <a href="https://www.linkedin.com/in/christianlg/details/experience/">
+  <a href="https://www.linkedin.com/in/christianlg/details/experience/" target="_blank">
     <img src="https://img.shields.io/badge/Experience-%23B14DFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="Experience" />
   </a>
 </p>
@@ -91,15 +91,17 @@ This GitHub serves as a **portfolio of that journey** — designed to speak to *
 ## 🖇 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/christianlg/">
-    <img src="https://img.shields.io/badge/LinkedIn-%23B14DFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/christianlg/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%23B14DFF?style=for-the-badge&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.clirago.com">
-    <img src="https://img.shields.io/badge/Portfolio-%23B14DFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  <a href="https://www.clirago.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23B14DFF?style=for-the-badge&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:lir18001@byui.edu">
-    <img src="https://img.shields.io/badge/Email-%23B14DFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:lir18001@byui.edu" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23B14DFF?style=for-the-badge&logoColor=white" alt="Email" />
+  </a>
 </p>
+
 
 
 <!--
