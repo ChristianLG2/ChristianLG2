@@ -62,7 +62,7 @@ To learn more about my academic background, certifications, and professional exp
 
 *Business Analytics • Data Science • Data Engineering • Machine Learning*
 
-At the center of every business decision lies **data**, the foundation I use to build solutions that connect strategy and technology. My work integrates **Data Science**, **Information Technologies**, and **Business Strategy** to deliver results that are insightful, actionable, and aligned with real-world needs.  
+At the center of every business decision lies **data** — the foundation I use to build solutions that connect strategy and technology. My work integrates **Data Science**, **Information Technologies**, and **Business Strategy** to deliver results that are insightful, actionable, and aligned with real-world needs.  
 
 I approach each problem with a **systems mindset**:  
 - From creating **machine learning models** to building **dashboards** and designing **full-stack applications**  
