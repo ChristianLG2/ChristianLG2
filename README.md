@@ -4,26 +4,31 @@
 
 ---
 
-## 🙋‍♂️ Christian Lira G.
+## Christian Lira G.
 *Business Analytics • Data Science • Data Engineering • Machine Learning*
 
-I’m a **data-driven problem solver** who thrives at the intersection of technology, business, and human behavior. My background in Business Analytics and Data Science has given me both the technical skills to build solutions and the strategic lens to make them matter.  
+Hello everyone, I’m Christian Lira Gonzalez, a **data-driven problem solver** who thrives at the intersection of technology, business, and human behavior. My background in Business Analytics and Data Science has given me both the technical skills to build solutions and the strategic lens to make them matter.  
 
-Fluent in English, Español, and 中文, I bring a **global perspective** to my work. And beyond data, I’m deeply curious about **literature, philosophy, and economics**, which shapes how I think about decision-making, systems, and innovation.  
+I am fluent in English, Español, and 中文(HSK3), I bring a **global perspective** to my work. And beyond data, I’m deeply curious about **literature, philosophy, and economics**, which shapes how I think about decision-making, systems, and innovation.  
 
 ---
 
-## 🎓 Certifications & Education
+
+## Education & Certifications  
+
+Through my academic journey, I’ve built a strong foundation in **Business Analytics**, complemented by minors in **Data Science** and **Political Science**, along with additional certifications that expand my technical and professional skills. Learn more about my academic preparartion:  
+
+
 <p align="center">
   <a href="https://www.linkedin.com/in/christianlg/details/education">
-    <img src="https://img.shields.io/badge/Education-%23B14DFF?style=for-the-badge&logo=graduated&logoColor=white" alt="Education" />
+    <img src="https://img.shields.io/badge/Education-%23B14DFF?style=for-the-badge&logoColor=white" alt="Education" />
   </a>
   <a href="https://www.linkedin.com/in/christianlg/details/certifications">
-    <img src="https://img.shields.io/badge/Certifications-%23B14DFF?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Certifications" />
+    <img src="https://img.shields.io/badge/Certifications-%23B14DFF?style=for-the-badge&logoColor=white" alt="Certifications" />
   </a>
 </p>
 
-## 🏢 Past Work Experiences  
+## Past Work Experiences  
 
 Through my academic and professional journey, I’ve had the opportunity to contribute to projects and initiatives at:
 
@@ -59,7 +64,7 @@ Through my academic and professional journey, I’ve had the opportunity to cont
 </p>
   
 ---
-## 🧠 My Work & Tools
+## My Work & Tools
 
 At the center of every business decision lies **data** — the foundation I use to build solutions that connect strategy and technology. My work integrates **Data Science**, **Information Technologies**, and **Business Strategy** to deliver results that are insightful, actionable, and aligned with real-world needs.  
 
@@ -83,7 +88,7 @@ This GitHub serves as a **portfolio of that journey** — designed to speak to *
 
 ---
 
-## 📊 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/christianlg/">
@@ -97,9 +102,6 @@ This GitHub serves as a **portfolio of that journey** — designed to speak to *
   </a>
   <img src="https://komarev.com/ghpvc/?username=ChristianLG2&color=B14DFF&style=for-the-badge" alt="Profile Views" />
 </p>
-
-
-
 
 
 <!--
