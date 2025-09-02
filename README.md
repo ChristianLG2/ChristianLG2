@@ -5,7 +5,6 @@
 ---
 
 ## 🙋🏻‍♂️ Christian Lira G.
-*Business Analytics • Data Science • Data Engineering • Machine Learning*
 
 Hello everyone, I’m Christian Lira Gonzalez, a **data-driven problem solver** who thrives at the intersection of technology, business, and human behavior. My background in Business Analytics and Data Science has given me both the technical skills to build solutions and the strategic lens to make them matter.  
 
@@ -61,6 +60,8 @@ To learn more about my academic background, certifications, and professional exp
 ---
 ## 👨🏻‍💻 My Work & Tools
 
+*Business Analytics • Data Science • Data Engineering • Machine Learning*
+
 At the center of every business decision lies **data** — the foundation I use to build solutions that connect strategy and technology. My work integrates **Data Science**, **Information Technologies**, and **Business Strategy** to deliver results that are insightful, actionable, and aligned with real-world needs.  
 
 I approach each problem with a **systems mindset**:  
@@ -81,6 +82,10 @@ To do this, I work across a broad stack of tools:
 
 This GitHub serves as a **portfolio of that journey** — designed to speak to **Business Leaders**, **Data Scientists**, and **Technical Professionals** alike.  
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ChristianLG2&color=B14DFF&style=for-the-badge" alt="Profile Views" />
+</p>
+
 ---
 
 ## 🖇 Connect With Me
@@ -94,8 +99,6 @@ This GitHub serves as a **portfolio of that journey** — designed to speak to *
   </a>
   <a href="mailto:lir18001@byui.edu">
     <img src="https://img.shields.io/badge/Email-%23B14DFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=ChristianLG2&color=B14DFF&style=for-the-badge" alt="Profile Views" />
 </p>
 
 
