@@ -7,36 +7,21 @@
 ## 🙋‍♂️ Christian Lira G.
 *Business Analytics • Data Science • Data Engineering • Machine Learning*
 
-📊 Turning raw data into actionable insights | ⚙️ Building end-to-end data & full-stack solutions | 🌍 Globally minded & multilingual
+I’m a **data-driven problem solver** who thrives at the intersection of technology, business, and human behavior. My background in Business Analytics and Data Science has given me both the technical skills to build solutions and the strategic lens to make them matter.  
 
+Fluent in English, Español, and 中文, I bring a **global perspective** to my work. And beyond data, I’m deeply curious about **literature, philosophy, and economics**, which shapes how I think about decision-making, systems, and innovation.  
+
+---
+
+## 🎓 Certifications & Education
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChristianLG2&color=4DB5FF" alt="Profile Views" height="30" />
-  <a href="https://www.linkedin.com/in/christianlg/">
-    <img src="https://img.shields.io/badge/LinkedIn-%23B14DFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/christianlg/details/education">
+    <img src="https://img.shields.io/badge/Education-%23B14DFF?style=for-the-badge&logo=graduated&logoColor=white" alt="Education" />
+  </a>
+  <a href="https://www.linkedin.com/in/christianlg/details/certifications">
+    <img src="https://img.shields.io/badge/Certifications-%23B14DFF?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Certifications" />
   </a>
 </p>
-
----
-
-## 📌 Quick Highlights
-- 📊 Transforming raw data into **insights** with Business Analytics & Data Science  
-- ⚙️ Building **data pipelines, dashboards, and full-stack apps** for real-world impact   
-- 🌍 Multilingual communicator (English, Español, 中文)  
-- 📚 Passionate about literature, philosophy, and economics — exploring human behavior and decision-making
-  
----
-
-## 🧠 About My Work
-
-At the center of every business decision lies **data**. Surrounding it are the technologies we use to collect, manage, and activate that data. And beyond that, the broader goals of business, finance, and operations that give it all meaning.
-
-My work sits at the intersection of these three layers. Through my projects, I aim to integrate **Data Science**, **Information Technologies**, and **Business Strategy** to build solutions that are insightful, actionable, and aligned with real-world needs.  
-
-Whether I’m creating machine learning models, building dashboards, designing full-stack applications, or analyzing financial performance, I approach each problem with a **systems mindset**.
-
-This GitHub serves as a portfolio of that journey. It’s designed to speak to **Business Leaders**, **Data Scientists**, and **Technical Professionals** alike.  
-
----
 
 ## 🏢 Past Work Experiences  
 
@@ -74,33 +59,44 @@ Through my academic and professional journey, I’ve had the opportunity to cont
 </p>
   
 ---
+## 🧠 My Work & Tools
 
-## 🎓 Certifications & Education
-- 📜 [List of Earned Certificates](https://www.linkedin.com/in/christianlg/details/certifications)  
-- 🎓 [Education](https://www.linkedin.com/in/christianlg/details/education)  
+At the center of every business decision lies **data** — the foundation I use to build solutions that connect strategy and technology. My work integrates **Data Science**, **Information Technologies**, and **Business Strategy** to deliver results that are insightful, actionable, and aligned with real-world needs.  
 
----
+I approach each problem with a **systems mindset**:  
+- From creating **machine learning models** to building **dashboards** and designing **full-stack applications**  
+- To optimizing **data pipelines** and analyzing **financial performance**  
 
-## 🛠️ Tech Stack
-- **📊 Business Intelligence** → Tableau, Power BI, Excel & VBA  
-- **📈 Data Science & Analytics** → Python, R, Pandas, NumPy, Matplotlib, ggplot2, dplyr, tidyverse  
-- **🔐 Data Governance & Engineering** → SQL (PostgreSQL, MySQL), Git, GitHub, DBMS tools  
-- **🤖 Machine Learning** → Scikit-learn, TensorFlow  
-- **🌐 Full-Stack Development** → HTML, CSS, JavaScript (React), Python (Flask), Node.js, REST APIs, Docker, GitHub Actions
+To do this, I work across a broad stack of tools:  
 
----
+- **Analytics & BI** → Tableau, Power BI, Excel & VBA  
+- **Data Science & ML** → Python, R, Pandas, NumPy, ggplot2, tidyverse, Scikit-learn, TensorFlow  
+- **Engineering & Dev** → SQL (PostgreSQL, MySQL), Git/GitHub, DBMS tools, React, Flask, Node.js, REST APIs, Docker, GitHub Actions  
 
-## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianLG2&layout=compact&title_color=4DB5FF&text_color=ffffff&bg_color=000000&border_color=B14DFF" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=ChristianLG2&show_icons=true&title_color=4DB5FF&icon_color=B14DFF&text_color=ffffff&bg_color=000000&border_color=B14DFF" alt="Christian's GitHub Stats" />
 </p>
 
+This GitHub serves as a **portfolio of that journey** — designed to speak to **Business Leaders**, **Data Scientists**, and **Technical Professionals** alike.  
+
 ---
 
-💡 *I’m passionate about connecting data, technology, and strategy to solve problems.*  
-📬 Let’s connect → [LinkedIn](https://www.linkedin.com/in/christianlg/) | [Portfolio](https://www.clirago.com) | [Email](mailto:lir18001@byui.edu)
+## 📊 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/christianlg/">
+    <img src="https://img.shields.io/badge/LinkedIn-%23B14DFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.clirago.com">
+    <img src="https://img.shields.io/badge/Portfolio-%23B14DFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:lir18001@byui.edu">
+    <img src="https://img.shields.io/badge/Email-%23B14DFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ChristianLG2&color=B14DFF&style=for-the-badge" alt="Profile Views" />
+</p>
 
 
 
