@@ -14,23 +14,9 @@ I am fluent in English, Español, and 中文(HSK3), I bring a **global perspecti
 ---
 
 
-## Education & Certifications  
+## Education, Certifications & Experience  
 
-Through my academic journey, I’ve built a strong foundation in **Business Analytics**, complemented by minors in **Data Science** and **Political Science**, along with additional certifications that expand my technical and professional skills. Learn more about my academic preparartion:  
-
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/christianlg/details/education">
-    <img src="https://img.shields.io/badge/Education-%23B14DFF?style=for-the-badge&logoColor=white" alt="Education" />
-  </a>
-  <a href="https://www.linkedin.com/in/christianlg/details/certifications">
-    <img src="https://img.shields.io/badge/Certifications-%23B14DFF?style=for-the-badge&logoColor=white" alt="Certifications" />
-  </a>
-</p>
-
-## Past Work Experiences  
-
-Through my academic and professional journey, I’ve had the opportunity to contribute to projects and initiatives at:
+At Brigham Young University–Idaho, I developed a strong foundation in Business Analytics, complemented by minors in Data Science and Political Science, and further strengthened through certifications that broaden my technical and professional skills. Alongside my studies, I’ve contributed to meaningful projects and initiatives across diverse industries and organizations:
 
 <table width="100%">
   <tr>
@@ -51,17 +37,26 @@ Through my academic and professional journey, I’ve had the opportunity to cont
     </td>
     <td align="center" width="25%">
       <a href="https://www.westmark.org/" target="_blank">
-        <img src="assets/westmark.png" alt="Westmark Credit Union" height="60"><br><sub>Westmark Credit Union</sub>
+        <img src="assets/westmark.png" alt="Westmark Credit Union" height="60"><br><sub>Westmark CU</sub>
       </a>
     </td>
   </tr>
 </table>
 
+To learn more about my academic background, certifications, and professional experience, explore:
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/christianlg/details/experience/" target="_blank">
-    <img src="https://img.shields.io/badge/See%20More%20Experiences-%23B14DFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="See More on LinkedIn"/>
+  <a href="https://www.linkedin.com/in/christianlg/details/education">
+    <img src="https://img.shields.io/badge/Education-%23B14DFF?style=for-the-badge&logoColor=white" alt="Education" />
+  </a>
+  <a href="https://www.linkedin.com/in/christianlg/details/certifications">
+    <img src="https://img.shields.io/badge/Certifications-%23B14DFF?style=for-the-badge&logoColor=white" alt="Certifications" />
+  </a>
+  <a href="https://www.linkedin.com/in/christianlg/details/experience/">
+    <img src="https://img.shields.io/badge/Experience-%23B14DFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="Experience" />
   </a>
 </p>
+
   
 ---
 ## My Work & Tools
