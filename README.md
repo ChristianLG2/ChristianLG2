@@ -8,7 +8,7 @@
 
 Hello everyone, I’m Christian Lira Gonzalez, a **data-driven problem solver** who thrives at the intersection of technology, business, and human behavior. My background in Business Analytics and Data Science has given me both the technical skills to build solutions and the strategic lens to make them matter.  
 
-I am fluent in English, Español, and 中文(HSK3), I bring a **global perspective** to my work. And beyond data, I’m deeply curious about **literature, philosophy, and economics**, which shapes how I think about decision-making, systems, and innovation.  
+I am fluent in English, Español, and 中文(HSK4), I bring a **global perspective** to my work. And beyond data, I’m deeply curious about **literature, philosophy, and economics**, which shapes how I think about decision-making, systems, and innovation.  
 
 ---
 
@@ -62,7 +62,7 @@ To learn more about my academic background, certifications, and professional exp
 
 *Business Analytics • Data Science • Data Engineering • Machine Learning*
 
-At the center of every business decision lies **data** — the foundation I use to build solutions that connect strategy and technology. My work integrates **Data Science**, **Information Technologies**, and **Business Strategy** to deliver results that are insightful, actionable, and aligned with real-world needs.  
+At the center of every business decision lies **data**, the foundation I use to build solutions that connect strategy and technology. My work integrates **Data Science**, **Information Technologies**, and **Business Strategy** to deliver results that are insightful, actionable, and aligned with real-world needs.  
 
 I approach each problem with a **systems mindset**:  
 - From creating **machine learning models** to building **dashboards** and designing **full-stack applications**  
@@ -80,7 +80,7 @@ To do this, I work across a broad stack of tools:
   <img src="https://github-readme-stats.vercel.app/api?username=ChristianLG2&show_icons=true&title_color=4DB5FF&icon_color=B14DFF&text_color=ffffff&bg_color=000000&border_color=B14DFF" alt="Christian's GitHub Stats" />
 </p>
 
-This GitHub serves as a **portfolio of that journey** — designed to speak to **Business Leaders**, **Data Scientists**, and **Technical Professionals** alike.  
+This GitHub serves as a **portfolio of that journey**, designed to speak to **Business Leaders**, **Data Scientists**, and **Technical Professionals** alike.  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ChristianLG2&color=B14DFF&style=for-the-badge" alt="Profile Views" />
