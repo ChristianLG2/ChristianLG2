@@ -1,8 +1,3 @@
-# GitHub Profile README
-# File: ChristianLG2/ChristianLG2/README.md
-# Replace the ENTIRE current file with everything below the dashed line
-# -------------------------------------------------------------------
-
 <p align="center">
   <img src="assets/linkedin-banner.png" alt="Christian Lira G. — Analytics Engineer" width="1600" />
 </p>
