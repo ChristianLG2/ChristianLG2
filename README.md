@@ -73,15 +73,15 @@ R (tidyverse, ggplot2, R Markdown) · statistical inference · ARIMA / time seri
 
 ## Featured projects
 
-**[Orpheus Analytics Platform](https://github.com/ChristianLG2/orpheus-analytics)** — End-to-end data platform: ELT pipelines → OLAP models → FastAPI delivery *(in active development)*
+**[Orpheus Analytics Platform](https://github.com/ChristianLG2/orpheus-analytics)**: End-to-end data platform: ELT pipelines → OLAP models → FastAPI delivery *(in active development)*
 
-**[HackUSU Databricks Pipeline](https://github.com/ChristianLG2)** — Supply chain analytics pipeline built in 24 hours using Databricks, SQL, Python, and Streamlit
+**[HackUSU Databricks Pipeline](https://github.com/ChristianLG2)**: Supply chain analytics pipeline built in 24 hours using Databricks, SQL, Python, and Streamlit
 
-**[CPI & Wage Disparity Analysis](https://github.com/ChristianLG2/CPI-Wage-Disparity-Statistical-Analysis)** — Econometric analysis across all U.S. states (2015–2023): regression, ANOVA, ARIMA in R · [View analysis](https://christianlg2.github.io/CPI-Wage-Disparity-Statistical-Analysis/cpi_wage_trend_analysis.html)
+**[CPI & Wage Disparity Analysis](https://github.com/ChristianLG2/CPI-Wage-Disparity-Statistical-Analysis)**: Econometric analysis across all U.S. states (2015–2023): regression, ANOVA, ARIMA in R · [View analysis](https://christianlg2.github.io/CPI-Wage-Disparity-Statistical-Analysis/cpi_wage_trend_analysis.html)
 
-**[NLP Topic Modeler](https://github.com/ChristianLG2/NLP_Topic_Modeler)** — Unsupervised LDA topic modeling on large-scale survey response data (Python, Jupyter)
+**[NLP Topic Modeler](https://github.com/ChristianLG2/NLP_Topic_Modeler)**: Unsupervised LDA topic modeling on large-scale survey response data (Python, Jupyter)
 
-**[GradeBase](https://github.com/ChristianLG2/GradeBase)** — Relational database system for academic performance management (Python, SQLite)
+**[GradeBase](https://github.com/ChristianLG2/GradeBase)**: Relational database system for academic performance management (Python, SQLite)
 
 ---
 
