@@ -1,86 +1,101 @@
+# GitHub Profile README
+# File: ChristianLG2/ChristianLG2/README.md
+# Replace the ENTIRE current file with everything below the dashed line
+# -------------------------------------------------------------------
+
 <p align="center">
-  <img src="assets/linkedin-banner.png" alt="LinkedIn Banner Banner" width="1600" />
+  <img src="assets/linkedin-banner.png" alt="Christian Lira G. — Analytics Engineer" width="1600" />
 </p>
 
 ---
 
-## 🙋🏻‍♂️ Christian Lira G.
+## Christian Lira G. — Analytics Engineer
 
-Hello everyone, I’m Christian Lira Gonzalez, a **data-driven problem solver** who thrives at the intersection of technology, business, and human behavior. My background in Business Analytics and Data Science has given me both the technical skills to build solutions and the strategic lens to make them matter.  
+I build data platforms from pipeline to delivery.
 
-I am fluent in English, Español, and 中文(HSK4), I bring a **global perspective** to my work. And beyond data, I’m deeply curious about **literature, philosophy, and economics**, which shapes how I think about decision-making, systems, and innovation.  
+Currently founding **Orpheus Analytics**, an end-to-end analytics engineering platform that transforms public economic datasets into standardized, API-accessible data products. Designing ELT ingestion pipelines, OLAP-oriented data models, and a FastAPI + PostgreSQL + Docker delivery layer for enterprise analytics consumers.
+
+Previously: **Tesla Finance Operations** (vendor data pipeline redesign, KPI automation for 1,000+ entities) · **BYU-Idaho Analytics Engineering Lead** (centralized OLTP-to-OLAP architecture, Power BI semantic models from scratch) · **BYU-Idaho Research Analyst** (full Qualtrics-to-Power BI pipeline, LDA topic modeling, Python validation tool adopted as standard across two institutions).
+
+Trilingual: English · Español (native) · 中文 (HSK4)
 
 ---
 
+## What I'm building right now
 
-## 👨🏻‍🎓 Education, Certifications & Experience  
+| Project | Stack | Status |
+|---|---|---|
+| **Orpheus Analytics Platform** | Python · FastAPI · PostgreSQL · Docker · SQL | Active — architecture + pipeline layer |
+| **Full-stack data mastery curriculum** | SQL · Python · R · Spark | 24-week self-directed program |
+| **DP-600 Fabric Analytics Engineer** | Microsoft Fabric · Power BI · DAX | Certification in progress |
+| **IBM Data Engineering Professional** | Data Engineering fundamentals | Certification in progress |
 
-At Brigham Young University–Idaho, I developed a strong foundation in Business Analytics, complemented by minors in Data Science and Political Science, and further strengthened through certifications that broaden my technical and professional skills. Alongside my studies, I’ve contributed to meaningful projects and initiatives across diverse industries and organizations:
+---
+
+## Technical focus
+
+**Analytics Engineering**
+ELT/ETL pipelines · Microsoft Fabric (Lakehouse, Pipelines, Data Warehouse) · Power BI (DAX, semantic models) · SSIS · Power Automate · OLAP/OLTP architecture · data flow mapping · data validation frameworks
+
+**Data Engineering**  
+Python (FastAPI, pandas, Docker) · SQL (T-SQL, PostgreSQL, MySQL) · Apache Spark · Databricks · API integration · schema design · medallion architecture
+
+**Statistics & Analysis**  
+R (tidyverse, ggplot2, R Markdown) · statistical inference · ARIMA / time series · econometrics · NLP (LDA topic modeling)
+
+---
+
+## Experience
 
 <table width="100%">
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="33%">
       <a href="https://www.tesla.com/" target="_blank">
-        <img src="assets/Tesla_logo.png" alt="Tesla" height="60"><br><sub>Tesla</sub>
+        <img src="assets/Tesla_logo.png" alt="Tesla" height="50"><br>
+        <sub><b>Tesla</b></sub><br>
+        <sub>Data Operations Analyst Intern</sub><br>
+        <sub>Sep 2023 – Sep 2024</sub>
       </a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="33%">
       <a href="https://www.byui.edu/" target="_blank">
-        <img src="assets/Brigham_Young_University–Idaho_medallion.svg.png" alt="BYU-Idaho" height="60"><br><sub>BYU–Idaho</sub>
+        <img src="assets/Brigham_Young_University–Idaho_medallion.svg.png" alt="BYU-Idaho" height="50"><br>
+        <sub><b>BYU–Idaho</b></sub><br>
+        <sub>Analytics Engineering Lead</sub><br>
+        <sub>Apr 2025 – Dec 2025</sub>
       </a>
     </td>
-    <td align="center" width="25%">
-      <a href="https://openteams.com/" target="_blank">
-        <img src="assets/OpenTeams.png" alt="OpenTeams" height="60"><br><sub>OpenTeams</sub>
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://www.westmark.org/" target="_blank">
-        <img src="assets/westmark.png" alt="Westmark Credit Union" height="60"><br><sub>Westmark CU</sub>
-      </a>
+    <td align="center" width="33%">
+      <img src="assets/orpheus_logo.png" alt="Orpheus Analytics" height="50"><br>
+      <sub><b>Orpheus Analytics</b></sub><br>
+      <sub>Founder & Analytics Engineering Lead</sub><br>
+      <sub>Feb 2026 – Present</sub>
     </td>
   </tr>
 </table>
 
-To learn more about my academic background, certifications, and professional experience, explore:
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/christianlg/details/education" target="_blank">
-    <img src="https://img.shields.io/badge/Education-%23B14DFF?style=for-the-badge&logo=graduatcap&logoColor=white" alt="Education" />
-  </a>
-  <a href="https://www.linkedin.com/in/christianlg/details/certifications" target="_blank">
-    <img src="https://img.shields.io/badge/Certifications-%23B14DFF?style=for-the-badge&logo=awards&logoColor=white" alt="Certifications" />
-  </a>
-  <a href="https://www.linkedin.com/in/christianlg/details/experience/" target="_blank">
-    <img src="https://img.shields.io/badge/Experience-%23B14DFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="Experience" />
-  </a>
-</p>
-
-  
 ---
-## 👨🏻‍💻 My Work & Tools
 
-*Business Analytics • Data Science • Data Engineering • Machine Learning*
+## Featured projects
 
-At the center of every business decision lies **data**, the foundation I use to build solutions that connect strategy and technology. My work integrates **Data Science**, **Information Technologies**, and **Business Strategy** to deliver results that are insightful, actionable, and aligned with real-world needs.  
+**[Orpheus Analytics Platform](https://github.com/ChristianLG2/orpheus-analytics)** — End-to-end data platform: ELT pipelines → OLAP models → FastAPI delivery *(in active development)*
 
-I approach each problem with a **systems mindset**:  
-- From creating **machine learning models** to building **dashboards** and designing **full-stack applications**  
-- To optimizing **data pipelines** and analyzing **financial performance**  
+**[HackUSU Databricks Pipeline](https://github.com/ChristianLG2)** — Supply chain analytics pipeline built in 24 hours using Databricks, SQL, Python, and Streamlit
 
-To do this, I work across a broad stack of tools:  
+**[CPI & Wage Disparity Analysis](https://github.com/ChristianLG2/CPI-Wage-Disparity-Statistical-Analysis)** — Econometric analysis across all U.S. states (2015–2023): regression, ANOVA, ARIMA in R · [View analysis](https://christianlg2.github.io/CPI-Wage-Disparity-Statistical-Analysis/cpi_wage_trend_analysis.html)
 
-- **Analytics & BI** → Tableau, Power BI, Excel & VBA  
-- **Data Science & ML** → Python, R, Pandas, NumPy, ggplot2, tidyverse, Scikit-learn, TensorFlow  
-- **Engineering & Dev** → SQL (PostgreSQL, MySQL), Git/GitHub, DBMS tools, React, Flask, Node.js, REST APIs, Docker, GitHub Actions  
+**[NLP Topic Modeler](https://github.com/ChristianLG2/NLP_Topic_Modeler)** — Unsupervised LDA topic modeling on large-scale survey response data (Python, Jupyter)
 
+**[GradeBase](https://github.com/ChristianLG2/GradeBase)** — Relational database system for academic performance management (Python, SQLite)
+
+---
+
+## GitHub stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianLG2&layout=compact&title_color=4DB5FF&text_color=ffffff&bg_color=000000&border_color=B14DFF" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ChristianLG2&show_icons=true&title_color=4DB5FF&icon_color=B14DFF&text_color=ffffff&bg_color=000000&border_color=B14DFF" alt="Christian's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChristianLG2&show_icons=true&title_color=4DB5FF&icon_color=B14DFF&text_color=ffffff&bg_color=000000&border_color=B14DFF" alt="GitHub Stats" />
 </p>
-
-This GitHub serves as a **portfolio of that journey**, designed to speak to **Business Leaders**, **Data Scientists**, and **Technical Professionals** alike.  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ChristianLG2&color=B14DFF&style=for-the-badge" alt="Profile Views" />
@@ -88,7 +103,7 @@ This GitHub serves as a **portfolio of that journey**, designed to speak to **Bu
 
 ---
 
-## 🖇 Connect With Me
+## Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/christianlg/" target="_blank">
@@ -97,7 +112,10 @@ This GitHub serves as a **portfolio of that journey**, designed to speak to **Bu
   <a href="https://www.clirago.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23B14DFF?style=for-the-badge&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:lir18001@byui.edu" target="_blank">
+  <a href="mailto:christian.lira.gl@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23B14DFF?style=for-the-badge&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://substack.com/@christianlirag" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-%23B14DFF?style=for-the-badge&logoColor=white" alt="Blog" />
   </a>
 </p>
