@@ -29,8 +29,18 @@ Trilingual: English · Español (native) · 中文 (HSK4)
 
 ## Technical focus
 
-**Languages**
-**Languages**
+
+
+
+
+**Analytics Engineering**
+ELT/ETL pipelines · Microsoft Fabric (Lakehouse, Pipelines, Data Warehouse) · Power BI (DAX, semantic models) · SSIS · Power Automate · OLAP/OLTP architecture · data flow mapping · data validation frameworks
+
+**Data Engineering**  
+Python (FastAPI, pandas, Docker) · SQL (T-SQL, PostgreSQL, MySQL) · Apache Spark · Databricks · API integration · schema design · medallion architecture
+
+**Statistics & Analysis**  
+R (tidyverse, ggplot2, R Markdown) · statistical inference · ARIMA / time series · econometrics · NLP (LDA topic modeling)
 
 <p align="center">
 <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
@@ -58,19 +68,6 @@ Trilingual: English · Español (native) · 中文 (HSK4)
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white">
 </p>
 
----
-
-**Analytics Engineering**
-ELT/ETL pipelines · Microsoft Fabric (Lakehouse, Pipelines, Data Warehouse) · Power BI (DAX, semantic models) · SSIS · Power Automate · OLAP/OLTP architecture · data flow mapping · data validation frameworks
-
-**Data Engineering**  
-Python (FastAPI, pandas, Docker) · SQL (T-SQL, PostgreSQL, MySQL) · Apache Spark · Databricks · API integration · schema design · medallion architecture
-
-**Statistics & Analysis**  
-R (tidyverse, ggplot2, R Markdown) · statistical inference · ARIMA / time series · econometrics · NLP (LDA topic modeling)
-
----
-
 ## Experience
 
 <p align="center">
@@ -93,7 +90,7 @@ R (tidyverse, ggplot2, R Markdown) · statistical inference · ARIMA / time seri
       </a>
     </td>
     <td align="center" width="33%">
-      <img src="assets/orpheus_logo.png" alt="Orpheus Analytics" height="50"><br>
+      <img src="assets/Lira512x512.png" alt="Orpheus Analytics" height="50"><br>
       <sub><b>Orpheus Analytics</b></sub><br>
       <sub>Founder & Analytics Engineering Lead</sub><br>
       <sub>Feb 2026 – Present</sub>
