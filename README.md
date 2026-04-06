@@ -30,7 +30,7 @@ Trilingual: English · Español (native) · 中文 (HSK4)
 ## Technical focus
 
 **Languages**
-
+<p align="center">
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -55,6 +55,7 @@ Trilingual: English · Español (native) · 中文 (HSK4)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+</p>
 
 ---
 
@@ -71,7 +72,8 @@ R (tidyverse, ggplot2, R Markdown) · statistical inference · ARIMA / time seri
 
 ## Experience
 
-<table width="100%">
+<p align="center">
+<table>
   <tr>
     <td align="center" width="33%">
       <a href="https://www.tesla.com/" target="_blank">
@@ -90,13 +92,14 @@ R (tidyverse, ggplot2, R Markdown) · statistical inference · ARIMA / time seri
       </a>
     </td>
     <td align="center" width="33%">
-      <img src="assets/Lira512x512.png" alt="Orpheus Analytics" height="50"><br>
+      <img src="assets/orpheus_logo.png" alt="Orpheus Analytics" height="50"><br>
       <sub><b>Orpheus Analytics</b></sub><br>
       <sub>Founder & Analytics Engineering Lead</sub><br>
       <sub>Feb 2026 – Present</sub>
     </td>
   </tr>
 </table>
+</p>
 
 ---
 
