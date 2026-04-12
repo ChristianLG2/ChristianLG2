@@ -125,6 +125,8 @@ R (tidyverse, ggplot2, R Markdown) · statistical inference · ARIMA / time seri
   <img src="https://git-me-stats-production.up.railway.app/card/christianlg2/radar?range=all&theme=midnight" />
 </p>
 
+[![radar](https://git-me-stats-production.up.railway.app/card/ChristianLG2/radar?range=all&theme=midnight)](https://git-me-stats-production.up.railway.app)
+
 
 ---
 
