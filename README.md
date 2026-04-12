@@ -128,6 +128,8 @@ R (tidyverse, ggplot2, R Markdown) · statistical inference · ARIMA / time seri
 ![](https://raw.githubusercontent.com/christianlg2/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/christianlg2/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
+[![langs](https://git-me-stats-production.up.railway.app/card/ChristianLG2/langs?range=all)](https://git-me-stats-production.up.railway.app) 
+[![radar](https://git-me-stats-production.up.railway.app/card/ChristianLG2/radar?range=all)](https://git-me-stats-production.up.railway.app)
 
 ---
 
