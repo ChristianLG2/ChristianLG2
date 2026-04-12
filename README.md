@@ -127,6 +127,8 @@ R (tidyverse, ggplot2, R Markdown) · statistical inference · ARIMA / time seri
 
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ChristianLG2-2005&hide_progress=true)
 
+https://github-readme-stats.shion.dev/api?username=ChristianLG2 
+
 ![](https://raw.githubusercontent.com/christianlg2/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/christianlg2/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
