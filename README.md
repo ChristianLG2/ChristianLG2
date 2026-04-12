@@ -16,6 +16,39 @@ Trilingual: English · Español (native) · 中文 (HSK4)
 
 ---
 
+## Experience
+
+<p align="center">
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.tesla.com/" target="_blank">
+        <img src="assets/Tesla_logo.png" alt="Tesla" height="50"><br>
+        <sub><b>Tesla</b></sub><br>
+        <sub>Data Operations Analyst Intern</sub><br>
+        <sub>Sep 2023 – Sep 2024</sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.byui.edu/" target="_blank">
+        <img src="assets/Brigham_Young_University–Idaho_medallion.svg.png" alt="BYU-Idaho" height="50"><br>
+        <sub><b>BYU–Idaho</b></sub><br>
+        <sub>Analytics Engineering Lead</sub><br>
+        <sub>Apr 2025 – Dec 2025</sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/Lira512x512.png" alt="Orpheus Analytics" height="50"><br>
+      <sub><b>Orpheus Analytics</b></sub><br>
+      <sub>Founder & Analytics Engineering Lead</sub><br>
+      <sub>Feb 2026 – Present</sub>
+    </td>
+  </tr>
+</table>
+</p>
+
+---
+
 ## What I'm building right now
 
 | Project | Stack | Status |
@@ -27,11 +60,21 @@ Trilingual: English · Español (native) · 中文 (HSK4)
 
 ---
 
+## Featured projects
+
+**[Orpheus Analytics Platform](https://github.com/ChristianLG2/orpheus-analytics)**: End-to-end data platform: ELT pipelines → OLAP models → FastAPI delivery *(in active development)*
+
+**[HackUSU Databricks Pipeline](https://github.com/ChristianLG2)**: Supply chain analytics pipeline built in 24 hours using Databricks, SQL, Python, and Streamlit
+
+**[CPI & Wage Disparity Analysis](https://github.com/ChristianLG2/CPI-Wage-Disparity-Statistical-Analysis)**: Econometric analysis across all U.S. states (2015–2023): regression, ANOVA, ARIMA in R · [View analysis](https://christianlg2.github.io/CPI-Wage-Disparity-Statistical-Analysis/cpi_wage_trend_analysis.html)
+
+**[NLP Topic Modeler](https://github.com/ChristianLG2/NLP_Topic_Modeler)**: Unsupervised LDA topic modeling on large-scale survey response data (Python, Jupyter)
+
+**[GradeBase](https://github.com/ChristianLG2/GradeBase)**: Relational database system for academic performance management (Python, SQLite)
+
+---
+
 ## Technical focus
-
-
-
-
 
 **Analytics Engineering**
 ELT/ETL pipelines · Microsoft Fabric (Lakehouse, Pipelines, Data Warehouse) · Power BI (DAX, semantic models) · SSIS · Power Automate · OLAP/OLTP architecture · data flow mapping · data validation frameworks
@@ -68,54 +111,9 @@ R (tidyverse, ggplot2, R Markdown) · statistical inference · ARIMA / time seri
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white">
 </p>
 
-## Experience
-
-<p align="center">
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://www.tesla.com/" target="_blank">
-        <img src="assets/Tesla_logo.png" alt="Tesla" height="50"><br>
-        <sub><b>Tesla</b></sub><br>
-        <sub>Data Operations Analyst Intern</sub><br>
-        <sub>Sep 2023 – Sep 2024</sub>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://www.byui.edu/" target="_blank">
-        <img src="assets/Brigham_Young_University–Idaho_medallion.svg.png" alt="BYU-Idaho" height="50"><br>
-        <sub><b>BYU–Idaho</b></sub><br>
-        <sub>Analytics Engineering Lead</sub><br>
-        <sub>Apr 2025 – Dec 2025</sub>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <img src="assets/Lira512x512.png" alt="Orpheus Analytics" height="50"><br>
-      <sub><b>Orpheus Analytics</b></sub><br>
-      <sub>Founder & Analytics Engineering Lead</sub><br>
-      <sub>Feb 2026 – Present</sub>
-    </td>
-  </tr>
-</table>
-</p>
-
 ---
 
-## Featured projects
-
-**[Orpheus Analytics Platform](https://github.com/ChristianLG2/orpheus-analytics)**: End-to-end data platform: ELT pipelines → OLAP models → FastAPI delivery *(in active development)*
-
-**[HackUSU Databricks Pipeline](https://github.com/ChristianLG2)**: Supply chain analytics pipeline built in 24 hours using Databricks, SQL, Python, and Streamlit
-
-**[CPI & Wage Disparity Analysis](https://github.com/ChristianLG2/CPI-Wage-Disparity-Statistical-Analysis)**: Econometric analysis across all U.S. states (2015–2023): regression, ANOVA, ARIMA in R · [View analysis](https://christianlg2.github.io/CPI-Wage-Disparity-Statistical-Analysis/cpi_wage_trend_analysis.html)
-
-**[NLP Topic Modeler](https://github.com/ChristianLG2/NLP_Topic_Modeler)**: Unsupervised LDA topic modeling on large-scale survey response data (Python, Jupyter)
-
-**[GradeBase](https://github.com/ChristianLG2/GradeBase)**: Relational database system for academic performance management (Python, SQLite)
-
----
-
-## GitHub stats
+## GitHub stats 
 
 <div align="center">
 
@@ -128,10 +126,6 @@ R (tidyverse, ggplot2, R Markdown) · statistical inference · ARIMA / time seri
 <p><img src="https://git-me-stats-production.up.railway.app/card/christianlg2/radar?range=all&theme=midnight" /></p>
 
 </div>
-
----
-
-## Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/christianlg/" target="_blank">
