@@ -119,13 +119,13 @@ R (tidyverse, ggplot2, R Markdown) · statistical inference · ARIMA / time seri
 
 <div align="center">
 
-<img src="https://git-me-stats-production.up.railway.app/card/christianlg2/overview?range=all&theme=midnight" />
+<p><img src="https://git-me-stats-production.up.railway.app/card/christianlg2/overview?range=all&theme=midnight" /></p>
 
-<img src="https://git-me-stats-production.up.railway.app/card/christianlg2/streak?range=all&theme=midnight" />
+<p><img src="https://git-me-stats-production.up.railway.app/card/christianlg2/streak?range=all&theme=midnight" /></p>
 
-<img src="https://git-me-stats-production.up.railway.app/card/christianlg2/langs?range=all&theme=midnight" />
+<p><img src="https://git-me-stats-production.up.railway.app/card/christianlg2/langs?range=all&theme=midnight" /></p>
 
-<img src="https://git-me-stats-production.up.railway.app/card/christianlg2/radar?range=all&theme=midnight" />
+<p><img src="https://git-me-stats-production.up.railway.app/card/christianlg2/radar?range=all&theme=midnight" /></p>
 
 </div>
 
