@@ -125,8 +125,11 @@ R (tidyverse, ggplot2, R Markdown) · statistical inference · ARIMA / time seri
   <img src="https://komarev.com/ghpvc/?username=christianlg2&color=B14DFF&style=for-the-badge" alt="Profile Views" />
 </p>
 
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ChristianLG2-2005&hide_progress=true)
+
 ![](https://raw.githubusercontent.com/christianlg2/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/christianlg2/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
 
 ---
 
