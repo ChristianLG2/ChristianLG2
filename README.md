@@ -12,7 +12,7 @@ Currently founding **Orpheus Analytics**, an end-to-end analytics engineering pl
 
 Previously: **Tesla Finance Operations** (vendor data pipeline redesign, KPI automation for 1,000+ entities) · **BYU-Idaho Analytics Engineering Lead** (centralized OLTP-to-OLAP architecture, Power BI semantic models from scratch) · **BYU-Idaho Research Analyst** (full Qualtrics-to-Power BI pipeline, LDA topic modeling, Python validation tool adopted as standard across two institutions).
 
-Trilingual: English · Español (native) · 中文 (HSK4)
+Trilingual: English · Español (native) · 中文 (Intermidiate - HSK4)
 
 ---
 
