@@ -3,7 +3,6 @@
 </p>
 
 ---
-
 ## Christian Lira G. Analytics Engineer
 
 I build data platforms from pipeline to delivery.
