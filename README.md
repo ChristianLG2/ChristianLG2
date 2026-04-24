@@ -5,13 +5,13 @@
 ---
 ## Christian Lira G. Analytics Engineer
 
-I build data platforms from pipeline to delivery.
+I build data platforms and AI systems from pipeline to delivery.
 
 Currently founding **Orpheus Analytics**, an end-to-end analytics engineering platform that transforms public economic datasets into standardized, API-accessible data products. Designing ELT ingestion pipelines, OLAP-oriented data models, and a FastAPI + PostgreSQL + Docker delivery layer for enterprise analytics consumers.
 
 Previously: **Tesla Finance Operations** (vendor data pipeline redesign, KPI automation for 1,000+ entities) · **BYU-Idaho Analytics Engineering Lead** (centralized OLTP-to-OLAP architecture, Power BI semantic models from scratch) · **BYU-Idaho Research Analyst** (full Qualtrics-to-Power BI pipeline, LDA topic modeling, Python validation tool adopted as standard across two institutions).
 
-Trilingual: English · Español (native) · 中文 (Intermidiate - HSK4)
+Trilingual: English · Español (native) · 普通话 (Intermidiate - HSK4)
 
 ---
 
@@ -52,24 +52,33 @@ Trilingual: English · Español (native) · 中文 (Intermidiate - HSK4)
 
 | Project | Stack | Status |
 |---|---|---|
-| **Orpheus Analytics Platform** | Python · FastAPI · PostgreSQL · Docker · SQL | Active — architecture + pipeline layer |
-| **Full-stack data mastery curriculum** | SQL · Python · R · Spark | 24-week self-directed program |
-| **DP-600 Fabric Analytics Engineer** | Microsoft Fabric · Power BI · DAX | Certification in progress |
-| **IBM Data Engineering Professional** | Data Engineering fundamentals | Certification in progress |
+| **Orpheus Analytics Platform** | Python · FastAPI · PostgreSQL · Docker · pgvector | Active — ELT + ML + RAG layers |
+| **SQL Analytics Portfolio** | T-SQL · dbt · Snowflake · PySpark · Quarto | 7 projects — in progress |
+| **Economic Intelligence RAG API** | LangChain · pgvector · FastAPI · Docker | In development |
+| **DP-600 Fabric Analytics Engineer** | Microsoft Fabric · Power BI · DAX | In progress |
+| **IBM Data Engineering Professional** | Data Engineering fundamentals | In progress |
 
 ---
 
 ## Featured projects
 
-**[Orpheus Analytics Platform](https://github.com/ChristianLG2/orpheus-analytics)**: End-to-end data platform: ELT pipelines → OLAP models → FastAPI delivery *(in active development)*
+**[Orpheus Analytics Platform](https://github.com/ChristianLG2/orpheus-analytics)**: 
+End-to-end data platform: ELT pipelines → OLAP models → FastAPI delivery *(in active development)*
 
-**[HackUSU Databricks Pipeline](https://github.com/ChristianLG2)**: Supply chain analytics pipeline built in 24 hours using Databricks, SQL, Python, and Streamlit
+**[SQL Analytics Portfolio](https://github.com/ChristianLG2/sql-analytics-portfolio)**: 
+7-project T-SQL portfolio covering supplier analytics, cohort retention, query optimization, star schema design, dbt, Snowflake, and PySpark *(in progress)*
 
-**[CPI & Wage Disparity Analysis](https://github.com/ChristianLG2/CPI-Wage-Disparity-Statistical-Analysis)**: Econometric analysis across all U.S. states (2015–2023): regression, ANOVA, ARIMA in R · [View analysis](https://christianlg2.github.io/CPI-Wage-Disparity-Statistical-Analysis/cpi_wage_trend_analysis.html)
+**[HackUSU 2026 — Databricks AI Pipeline](https://github.com/ChristianLG2)**: 
+Supply chain analytics pipeline built in 24 hours — Databricks, Python, SQL, Streamlit, and Databricks AI/BI Genie conversational interface for natural language data querying
 
-**[NLP Topic Modeler](https://github.com/ChristianLG2/NLP_Topic_Modeler)**: Unsupervised LDA topic modeling on large-scale survey response data (Python, Jupyter)
+**[CPI & Wage Disparity Analysis](https://github.com/ChristianLG2/CPI-Wage-Disparity-Statistical-Analysis)**: 
+Econometric analysis across all U.S. states (2015–2023): regression, ANOVA, ARIMA in R · [View analysis](https://christianlg2.github.io/CPI-Wage-Disparity-Statistical-Analysis/cpi_wage_trend_analysis.html)
 
-**[GradeBase](https://github.com/ChristianLG2/GradeBase)**: Relational database system for academic performance management (Python, SQLite)
+**[NLP Topic Modeler](https://github.com/ChristianLG2/NLP_Topic_Modeler)**: 
+Unsupervised LDA topic modeling on large-scale survey response data (Python, Jupyter)
+
+**[GradeBase](https://github.com/ChristianLG2/GradeBase)**: 
+Relational database system for academic performance management (Python, SQLite)
 
 ---
 
@@ -80,6 +89,9 @@ ELT/ETL pipelines · Microsoft Fabric (Lakehouse, Pipelines, Data Warehouse) · 
 
 **Data Engineering**  
 Python (FastAPI, pandas, Docker) · SQL (T-SQL, PostgreSQL, MySQL) · Apache Spark · Databricks · API integration · schema design · medallion architecture
+
+**Machine Learning**
+Decision Trees · Gradient Boosted Trees · Neural Networks · CNNs · RNNs · K-Means clustering · LDA topic modeling · ARIMA · scikit-learn · RAG pipelines · LangChain — Supervised & Unsupervised
 
 **Statistics & Analysis**  
 R (tidyverse, ggplot2, R Markdown) · statistical inference · ARIMA / time series · econometrics · NLP (LDA topic modeling)
@@ -108,6 +120,10 @@ R (tidyverse, ggplot2, R Markdown) · statistical inference · ARIMA / time seri
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white">
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white">
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/pgvector-4169E1?style=flat&logo=postgresql&logoColor=white">
 </p>
 
 ---
