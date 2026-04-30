@@ -52,8 +52,8 @@ Trilingual: English · Español (native) · 普通话 (Intermidiate - HSK4)
 
 | Project | Stack | Status |
 |---|---|---|
-| **Orpheus Analytics Platform** | Python · FastAPI · PostgreSQL · Docker · pgvector | Active — ELT + ML + RAG layers |
-| **SQL Analytics Portfolio** | T-SQL · dbt · Snowflake · PySpark · Quarto | 7 projects — in progress |
+| **Orpheus Analytics Platform** | Python · FastAPI · PostgreSQL · Docker · pgvector | Active: ELT + ML + RAG layers |
+| **SQL Analytics Portfolio** | T-SQL · dbt · Snowflake · PySpark · Quarto | 7 projects: in progress |
 | **Economic Intelligence RAG API** | LangChain · pgvector · FastAPI · Docker | In development |
 | **DP-600 Fabric Analytics Engineer** | Microsoft Fabric · Power BI · DAX | In progress |
 | **IBM Data Engineering Professional** | Data Engineering fundamentals | In progress |
@@ -91,7 +91,7 @@ ELT/ETL pipelines · Microsoft Fabric (Lakehouse, Pipelines, Data Warehouse) · 
 Python (FastAPI, pandas, Docker) · SQL (T-SQL, PostgreSQL, MySQL) · Apache Spark · Databricks · API integration · schema design · medallion architecture
 
 **Machine Learning**
-Decision Trees · Gradient Boosted Trees · Neural Networks · CNNs · RNNs · K-Means clustering · LDA topic modeling · ARIMA · scikit-learn · RAG pipelines · LangChain — Supervised & Unsupervised
+Decision Trees · Gradient Boosted Trees · Neural Networks · CNNs · RNNs · K-Means clustering · LDA topic modeling · ARIMA · scikit-learn · RAG pipelines · LangChain · Supervised & Unsupervised
 
 **Statistics & Analysis**  
 R (tidyverse, ggplot2, R Markdown) · statistical inference · ARIMA / time series · econometrics · NLP (LDA topic modeling)
