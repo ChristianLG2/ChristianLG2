@@ -69,7 +69,7 @@ End-to-end data platform: ELT pipelines → OLAP models → FastAPI delivery *(i
 7-project T-SQL portfolio covering supplier analytics, cohort retention, query optimization, star schema design, dbt, Snowflake, and PySpark *(in progress)*
 
 **[HackUSU 2026 Databricks AI Pipeline](https://github.com/ChristianLG2)**: 
-Supply chain analytics pipeline built in 24 hours — Databricks, Python, SQL, Streamlit, and Databricks AI/BI Genie conversational interface for natural language data querying
+Supply chain analytics pipeline built in 24 hours: Databricks, Python, SQL, Streamlit, and Databricks AI/BI Genie conversational interface for natural language data querying
 
 **[CPI & Wage Disparity Analysis](https://github.com/ChristianLG2/CPI-Wage-Disparity-Statistical-Analysis)**: 
 Econometric analysis across all U.S. states (2015–2023): regression, ANOVA, ARIMA in R · [View analysis](https://christianlg2.github.io/CPI-Wage-Disparity-Statistical-Analysis/cpi_wage_trend_analysis.html)
