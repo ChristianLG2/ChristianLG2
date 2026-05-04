@@ -62,7 +62,7 @@ Trilingual: English · Español (native) · 普通话 (Intermidiate - HSK4)
 
 ## Featured projects
 
-**[Orpheus Analytics Platform](https://github.com/ChristianLG2/orpheus-analytics)**: 
+**[Orpheus Analytics Platform](https://github.com/OrpheusAnalytics)**: 
 End-to-end data platform: ELT pipelines → OLAP models → FastAPI delivery *(in active development)*
 
 **[SQL Analytics Portfolio](https://github.com/ChristianLG2/sql-analytics-portfolio)**: 
