@@ -15,7 +15,7 @@ Trilingual: English · Español (native) · 普通话 (Intermidiate - HSK4)
 
 ---
 
-## Experience
+## Professional Experience
 
 <p align="center">
 <table>
