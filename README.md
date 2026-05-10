@@ -5,11 +5,11 @@
 
 ---
 
-## Christian Lira G. · Analytics Engineer
+## Christian Lira G · Analytics Engineer · Machine Learning · Data Engineering  
 
 I build data platforms and AI systems from pipeline to delivery.
 
-Currently founding **Orpheus Analytics** — transforming public 
+Currently founding **Orpheus Analytics** transforming public 
 economic datasets into API-accessible intelligence products via 
 ELT pipelines, OLAP models, and a FastAPI + PostgreSQL + Docker 
 delivery layer.
@@ -20,10 +20,6 @@ semantic models) · **BYU-Idaho Research** (LDA topic modeling pipeline
 adopted across two institutions).
 
 Trilingual: English · Español (native) · 普通话 (HSK4)
-
----
-
-## Where I've worked
 
 <table align="center">
   <tr>
@@ -50,27 +46,11 @@ Trilingual: English · Español (native) · 普通话 (HSK4)
         alt="Orpheus Analytics" height="50"><br>
         <sub><b>Orpheus Analytics</b></sub><br>
         <sub>Founder & AE Lead</sub><br>
-        <sub>Feb 2026 – Present</sub>
+        <sub>Feb 2026 Present</sub>
       </a>
     </td>
   </tr>
 </table>
-
----
-
-## What I'm building right now
-
-| Project | Stack | Status |
-|---|---|---|
-| **Orpheus Analytics Platform** | Python · FastAPI · PostgreSQL · Docker · pgvector | Active — ELT + ML + RAG |
-| **SQL Analytics Portfolio** | T-SQL · dbt · Snowflake · PySpark · Quarto | 7 projects — in progress |
-| **Economic Intelligence RAG API** | LangChain · pgvector · FastAPI | In development |
-| **DP-600 Fabric Analytics Engineer** | Microsoft Fabric · Power BI · DAX | In progress |
-| **IBM Data Engineering Professional** | Data Engineering fundamentals | In progress |
-
----
-
-## Stack
 
 <p align="center">
 
@@ -114,6 +94,52 @@ Trilingual: English · Español (native) · 普通话 (HSK4)
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white">
 
 </p>
+---
+
+## Professional Experience 
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.tesla.com/" target="_blank">
+        <img src="assets/Tesla_logo.png" alt="Tesla" height="50"><br>
+        <sub><b>Tesla</b></sub><br>
+        <sub>Data Operations Analyst</sub><br>
+        <sub>Sep 2023 – Sep 2024</sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.byui.edu/" target="_blank">
+        <img src="assets/Brigham_Young_University–Idaho_medallion.svg.png" 
+        alt="BYU-Idaho" height="50"><br>
+        <sub><b>BYU–Idaho</b></sub><br>
+        <sub>Analytics Engineering Lead</sub><br>
+        <sub>Apr 2025 – Dec 2025</sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/OrpheusAnalytics" target="_blank">
+        <img src="assets/Lira512x512.png" 
+        alt="Orpheus Analytics" height="50"><br>
+        <sub><b>Orpheus Analytics</b></sub><br>
+        <sub>Founder & AE Lead</sub><br>
+        <sub>Feb 2026 Present</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## What I'm building right now
+
+| Project | Stack | Status |
+|---|---|---|
+| **Orpheus Analytics Platform** | Python · FastAPI · PostgreSQL · Docker · pgvector | Active  ELT + ML + RAG |
+| **SQL Analytics Portfolio** | T-SQL · dbt · Snowflake · PySpark · Quarto | 7 projects  in progress |
+| **Economic Intelligence RAG API** | LangChain · pgvector · FastAPI | In development |
+| **DP-600 Fabric Analytics Engineer** | Microsoft Fabric · Power BI · DAX | In progress |
+| **IBM Data Engineering Professional** | Data Engineering fundamentals | In progress |
 
 ---
 
