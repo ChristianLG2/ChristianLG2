@@ -17,8 +17,7 @@ Trilingual: English · Español (native) · 普通话 (Intermidiate - HSK4)
 
 ## Professional Experience
 
-<p align="center">
-<table>
+<table align="center">
   <tr>
     <td align="center" width="33%">
       <a href="https://www.tesla.com/" target="_blank">
@@ -44,7 +43,6 @@ Trilingual: English · Español (native) · 普通话 (Intermidiate - HSK4)
     </td>
   </tr>
 </table>
-</p>
 
 ---
 
