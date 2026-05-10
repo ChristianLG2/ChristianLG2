@@ -97,33 +97,46 @@ Decision Trees · Gradient Boosted Trees · Neural Networks · CNNs · RNNs · K
 R (tidyverse, ggplot2, R Markdown) · statistical inference · ARIMA / time series · econometrics · NLP (LDA topic modeling)
 
 <p align="center">
-<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white">
-<img src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/SSMS_20-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+
+<!-- Languages -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white">
+<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white">
+
+<!-- Data Engineering -->
+<img src="https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white">
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/pgvector-4169E1?style=flat&logo=postgresql&logoColor=white">
+
+<!-- ML / AI -->
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/XGBoost-189AB4?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/SHAP-FF6B6B?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white">
+
+<!-- BI / Visualization -->
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white">
+<img src="https://img.shields.io/badge/DAX-F2C811?style=flat&logo=powerbi&logoColor=black">
 <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/matplotlib-11557C?style=flat&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/seaborn-3776AB?style=flat&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/tidyverse-1A162D?style=flat&logo=r&logoColor=white">
-<img src="https://img.shields.io/badge/ggplot2-276DC3?style=flat&logo=r&logoColor=white">
-<img src="https://img.shields.io/badge/DAX-F2C811?style=flat&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Quarto-75AADB?style=flat&logo=quarto&logoColor=white">
+
+<!-- Platform / Tools -->
+<img src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat&logo=microsoft&logoColor=white">
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white">
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white">
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white">
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white">
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white">
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/pgvector-4169E1?style=flat&logo=postgresql&logoColor=white">
+
 </p>
 
 ---
