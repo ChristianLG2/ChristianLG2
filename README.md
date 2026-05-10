@@ -107,8 +107,9 @@ Trilingual: English · Español (native) · 普通话 (HSK4)
 
 | Project | Stack | Status |
 |---|---|---|
-| **Orpheus Analytics Platform** | Python · FastAPI · PostgreSQL · Docker · pgvector | Active  ELT + ML + RAG |
-| **SQL Analytics Portfolio** | T-SQL · dbt · Snowflake · PySpark · Quarto | 7 projects  in progress |
+| **[Orpheus Analytics Platform](https://github.com/OrpheusAnalytics)** | Python · FastAPI · PostgreSQL · Docker · pgvector | Active — ELT + ML + RAG |
+| **[SQL Analytics Portfolio](https://github.com/ChristianLG2/SQL-Analytics-Portfolio)** | T-SQL · dbt · Snowflake · PySpark · Quarto | 7 projects — in progress |
+| **[WC2026 Match Predictor](https://github.com/ChristianLG2/WorldCup2026-Match-Predictor)** | Python · XGBoost · scikit-learn · SHAP · Quarto | Predictions publish June 11 |
 | **Economic Intelligence RAG API** | LangChain · pgvector · FastAPI | In development |
 | **DP-600 Fabric Analytics Engineer** | Microsoft Fabric · Power BI · DAX | In progress |
 | **IBM Data Engineering Professional** | Data Engineering fundamentals | In progress |
@@ -119,8 +120,16 @@ Trilingual: English · Español (native) · 普通话 (HSK4)
 ## GitHub stats
 
 <div align="center">
-<p><img src="https://git-me-stats-production.up.railway.app/card/christianlg2/langs?range=all&theme=midnight" /></p>
-<p><img src="https://git-me-stats-production.up.railway.app/card/christianlg2/radar?range=all&theme=midnight" /></p>
+  <table>
+    <tr>
+      <td>
+        <img src="https://git-me-stats-production.up.railway.app/card/christianlg2/langs?range=all&theme=midnight" />
+      </td>
+      <td>
+        <img src="https://git-me-stats-production.up.railway.app/card/christianlg2/radar?range=all&theme=midnight" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 
