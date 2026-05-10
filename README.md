@@ -5,8 +5,6 @@
 
 ---
 
-## Christian Lira G · Analytics Engineer · Machine Learning · Data Engineering  
-
 I build data platforms and AI systems from pipeline to delivery.
 
 Currently founding **Orpheus Analytics** transforming public 
