@@ -67,7 +67,6 @@ Trilingual: English · Español (native) · 普通话 (HSK4)
 
 </p>
 
----
 
 ## Professional Experience 
 
@@ -102,7 +101,6 @@ Trilingual: English · Español (native) · 普通话 (HSK4)
   </tr>
 </table>
 
----
 
 ## What I'm building right now
 
@@ -114,7 +112,6 @@ Trilingual: English · Español (native) · 普通话 (HSK4)
 | **DP-600 Fabric Analytics Engineer** | Microsoft Fabric · Power BI · DAX | In progress |
 | **IBM Data Engineering Professional** | Data Engineering fundamentals | In progress |
 
----
 
 ## GitHub stats
 
@@ -123,7 +120,6 @@ Trilingual: English · Español (native) · 普通话 (HSK4)
 <p><img src="https://git-me-stats-production.up.railway.app/card/christianlg2/radar?range=all&theme=midnight" /></p>
 </div>
 
----
 
 <p align="center">
   <a href="https://www.linkedin.com/in/christianlg/" target="_blank">
