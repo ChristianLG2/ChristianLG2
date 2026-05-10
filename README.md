@@ -23,6 +23,41 @@ Trilingual: English · Español (native) · 普通话 (HSK4)
 
 <br/>
 
+## Professional Experience 
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.tesla.com/" target="_blank">
+        <img src="assets/Tesla_logo.png" alt="Tesla" height="50"><br>
+        <sub><b>Tesla</b></sub><br>
+        <sub>Data Operations Analyst</sub><br>
+        <sub>Sep 2023 – Sep 2024</sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.byui.edu/" target="_blank">
+        <img src="assets/Brigham_Young_University–Idaho_medallion.svg.png" 
+        alt="BYU-Idaho" height="50"><br>
+        <sub><b>BYU–Idaho</b></sub><br>
+        <sub>Analytics Engineering Lead</sub><br>
+        <sub>Apr 2025 – Dec 2025</sub>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/OrpheusAnalytics" target="_blank">
+        <img src="assets/Lira512x512.png" 
+        alt="Orpheus Analytics" height="50"><br>
+        <sub><b>Orpheus Analytics</b></sub><br>
+        <sub>Founder & AE Lead</sub><br>
+        <sub>Feb 2026 Present</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 <p align="center">
 
 <!-- Languages -->
@@ -65,41 +100,6 @@ Trilingual: English · Español (native) · 普通话 (HSK4)
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white">
 
 </p>
-
-<br/>
-
-## Professional Experience 
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://www.tesla.com/" target="_blank">
-        <img src="assets/Tesla_logo.png" alt="Tesla" height="50"><br>
-        <sub><b>Tesla</b></sub><br>
-        <sub>Data Operations Analyst</sub><br>
-        <sub>Sep 2023 – Sep 2024</sub>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://www.byui.edu/" target="_blank">
-        <img src="assets/Brigham_Young_University–Idaho_medallion.svg.png" 
-        alt="BYU-Idaho" height="50"><br>
-        <sub><b>BYU–Idaho</b></sub><br>
-        <sub>Analytics Engineering Lead</sub><br>
-        <sub>Apr 2025 – Dec 2025</sub>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/OrpheusAnalytics" target="_blank">
-        <img src="assets/Lira512x512.png" 
-        alt="Orpheus Analytics" height="50"><br>
-        <sub><b>Orpheus Analytics</b></sub><br>
-        <sub>Founder & AE Lead</sub><br>
-        <sub>Feb 2026 Present</sub>
-      </a>
-    </td>
-  </tr>
-</table>
 
 <br/>
 
