@@ -8,19 +8,15 @@
 
 `Hello Github Community!` 
 
-I build data platforms and AI systems from pipeline to delivery.
+I'm an analytics engineer who builds the full stack, pipelines, models, APIs, and the dashboards on top.
 
-Currently founding **Orpheus Analytics** transforming public 
-economic datasets into API-accessible intelligence products via 
-ELT pipelines, OLAP models, and a FastAPI + PostgreSQL + Docker 
-delivery layer.
+My work lives at the intersection of data engineering,ML, and business context. I care about data that'sgoverned, modeled correctly, and actually used, not just collected.
 
-Previously: **Tesla** (vendor data pipelines, KPI automation for 
-1,000+ entities) · **BYU-Idaho** (OLTP→OLAP architecture, Power BI 
-semantic models) · **BYU-Idaho Research** (LDA topic modeling pipeline 
-adopted across two institutions).
+Currently building **[Orpheus Analytics](https://github.com/OrpheusAnalytics)** an economic intelligence platform: FRED + BLS pipelines →PostgreSQL + pgvector → GBM forecasting → RAG query API.
 
-Trilingual: English · Español (native) · 普通话 (HSK4)
+Previously shipped production work at **Tesla** and **BYU-Idaho**.
+
+Trilingual: English · Español · 普通话
 
 <br/>
 
