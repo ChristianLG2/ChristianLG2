@@ -23,7 +23,6 @@ Trilingual: English · Español (native) · 普通话 (HSK4)
 
 <br/>
 
-
 <p align="center">
 
 <!-- Languages -->
@@ -67,6 +66,7 @@ Trilingual: English · Español (native) · 普通话 (HSK4)
 
 </p>
 
+<br/>
 
 ## Professional Experience 
 
@@ -101,6 +101,7 @@ Trilingual: English · Español (native) · 普通话 (HSK4)
   </tr>
 </table>
 
+<br/>
 
 ## What I'm building right now
 
@@ -112,6 +113,8 @@ Trilingual: English · Español (native) · 普通话 (HSK4)
 | **DP-600 Fabric Analytics Engineer** | Microsoft Fabric · Power BI · DAX | In progress |
 | **IBM Data Engineering Professional** | Data Engineering fundamentals | In progress |
 
+
+<br/>
 
 ## GitHub stats
 
