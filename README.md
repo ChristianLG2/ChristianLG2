@@ -23,7 +23,7 @@ Trilingual: English · Español (native) · 普通话 (HSK4)
 
 <br/>
 
-## Professional Experience 
+---
 
 <table align="center">
   <tr>
