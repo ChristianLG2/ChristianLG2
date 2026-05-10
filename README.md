@@ -106,6 +106,7 @@ R (tidyverse, ggplot2, R Markdown) · statistical inference · ARIMA / time seri
 <!-- Data Engineering -->
 <img src="https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white">
 <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white">
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
