@@ -1,21 +1,29 @@
 <p align="center">
-  <img src="assets/linkedin-banner.png" alt="Christian Lira G. — Analytics Engineer" width="1600" />
+  <img src="assets/linkedin-banner.png" 
+  alt="Christian Lira G. — Analytics Engineer" width="1600" />
 </p>
 
 ---
-## Christian Lira G. Analytics Engineer
+
+## Christian Lira G. · Analytics Engineer
 
 I build data platforms and AI systems from pipeline to delivery.
 
-Currently founding **Orpheus Analytics**, an end-to-end analytics engineering platform that transforms public economic datasets into standardized, API-accessible data products. Designing ELT ingestion pipelines, OLAP-oriented data models, and a FastAPI + PostgreSQL + Docker delivery layer for enterprise analytics consumers.
+Currently founding **Orpheus Analytics** — transforming public 
+economic datasets into API-accessible intelligence products via 
+ELT pipelines, OLAP models, and a FastAPI + PostgreSQL + Docker 
+delivery layer.
 
-Previously: **Tesla Finance Operations** (vendor data pipeline redesign, KPI automation for 1,000+ entities) · **BYU-Idaho Analytics Engineering Lead** (centralized OLTP-to-OLAP architecture, Power BI semantic models from scratch) · **BYU-Idaho Research Analyst** (full Qualtrics-to-Power BI pipeline, LDA topic modeling, Python validation tool adopted as standard across two institutions).
+Previously: **Tesla** (vendor data pipelines, KPI automation for 
+1,000+ entities) · **BYU-Idaho** (OLTP→OLAP architecture, Power BI 
+semantic models) · **BYU-Idaho Research** (LDA topic modeling pipeline 
+adopted across two institutions).
 
-Trilingual: English · Español (native) · 普通话 (Intermidiate - HSK4)
+Trilingual: English · Español (native) · 普通话 (HSK4)
 
 ---
 
-## Professional Experience
+## Where I've worked
 
 <table align="center">
   <tr>
@@ -23,23 +31,27 @@ Trilingual: English · Español (native) · 普通话 (Intermidiate - HSK4)
       <a href="https://www.tesla.com/" target="_blank">
         <img src="assets/Tesla_logo.png" alt="Tesla" height="50"><br>
         <sub><b>Tesla</b></sub><br>
-        <sub>Data Operations Analyst Intern</sub><br>
+        <sub>Data Operations Analyst</sub><br>
         <sub>Sep 2023 – Sep 2024</sub>
       </a>
     </td>
     <td align="center" width="33%">
       <a href="https://www.byui.edu/" target="_blank">
-        <img src="assets/Brigham_Young_University–Idaho_medallion.svg.png" alt="BYU-Idaho" height="50"><br>
+        <img src="assets/Brigham_Young_University–Idaho_medallion.svg.png" 
+        alt="BYU-Idaho" height="50"><br>
         <sub><b>BYU–Idaho</b></sub><br>
         <sub>Analytics Engineering Lead</sub><br>
         <sub>Apr 2025 – Dec 2025</sub>
       </a>
     </td>
     <td align="center" width="33%">
-      <img src="assets/Lira512x512.png" alt="Orpheus Analytics" height="50"><br>
-      <sub><b>Orpheus Analytics</b></sub><br>
-      <sub>Founder & Analytics Engineering Lead</sub><br>
-      <sub>Feb 2026 – Present</sub>
+      <a href="https://github.com/OrpheusAnalytics" target="_blank">
+        <img src="assets/Lira512x512.png" 
+        alt="Orpheus Analytics" height="50"><br>
+        <sub><b>Orpheus Analytics</b></sub><br>
+        <sub>Founder & AE Lead</sub><br>
+        <sub>Feb 2026 – Present</sub>
+      </a>
     </td>
   </tr>
 </table>
@@ -50,49 +62,15 @@ Trilingual: English · Español (native) · 普通话 (Intermidiate - HSK4)
 
 | Project | Stack | Status |
 |---|---|---|
-| **Orpheus Analytics Platform** | Python · FastAPI · PostgreSQL · Docker · pgvector | Active: ELT + ML + RAG layers |
-| **SQL Analytics Portfolio** | T-SQL · dbt · Snowflake · PySpark · Quarto | 7 projects: in progress |
-| **Economic Intelligence RAG API** | LangChain · pgvector · FastAPI · Docker | In development |
+| **Orpheus Analytics Platform** | Python · FastAPI · PostgreSQL · Docker · pgvector | Active — ELT + ML + RAG |
+| **SQL Analytics Portfolio** | T-SQL · dbt · Snowflake · PySpark · Quarto | 7 projects — in progress |
+| **Economic Intelligence RAG API** | LangChain · pgvector · FastAPI | In development |
 | **DP-600 Fabric Analytics Engineer** | Microsoft Fabric · Power BI · DAX | In progress |
 | **IBM Data Engineering Professional** | Data Engineering fundamentals | In progress |
 
 ---
 
-## Featured projects
-
-**[Orpheus Analytics Platform](https://github.com/OrpheusAnalytics)**: 
-End-to-end data platform: ELT pipelines → OLAP models → FastAPI delivery *(in active development)*
-
-**[SQL Analytics Portfolio](https://github.com/ChristianLG2/sql-analytics-portfolio)**: 
-7-project T-SQL portfolio covering supplier analytics, cohort retention, query optimization, star schema design, dbt, Snowflake, and PySpark *(in progress)*
-
-**[HackUSU 2026 Databricks AI Pipeline](https://github.com/ChristianLG2)**: 
-Supply chain analytics pipeline built in 24 hours: Databricks, Python, SQL, Streamlit, and Databricks AI/BI Genie conversational interface for natural language data querying
-
-**[CPI & Wage Disparity Analysis](https://github.com/ChristianLG2/CPI-Wage-Disparity-Statistical-Analysis)**: 
-Econometric analysis across all U.S. states (2015–2023): regression, ANOVA, ARIMA in R · [View analysis](https://christianlg2.github.io/CPI-Wage-Disparity-Statistical-Analysis/cpi_wage_trend_analysis.html)
-
-**[NLP Topic Modeler](https://github.com/ChristianLG2/NLP_Topic_Modeler)**: 
-Unsupervised LDA topic modeling on large-scale survey response data (Python, Jupyter)
-
-**[GradeBase](https://github.com/ChristianLG2/GradeBase)**: 
-Relational database system for academic performance management (Python, SQLite)
-
----
-
-## Technical focus
-
-**Analytics Engineering**
-ELT/ETL pipelines · Microsoft Fabric (Lakehouse, Pipelines, Data Warehouse) · Power BI (DAX, semantic models) · SSIS · Power Automate · OLAP/OLTP architecture · data flow mapping · data validation frameworks
-
-**Data Engineering**  
-Python (FastAPI, pandas, Docker) · SQL (T-SQL, PostgreSQL, MySQL) · Apache Spark · Databricks · API integration · schema design · medallion architecture
-
-**Machine Learning**
-Decision Trees · Gradient Boosted Trees · Neural Networks · CNNs · RNNs · K-Means clustering · LDA topic modeling · ARIMA · scikit-learn · RAG pipelines · LangChain · Supervised & Unsupervised
-
-**Statistics & Analysis**  
-R (tidyverse, ggplot2, R Markdown) · statistical inference · ARIMA / time series · econometrics · NLP (LDA topic modeling)
+## Stack
 
 <p align="center">
 
@@ -123,7 +101,6 @@ R (tidyverse, ggplot2, R Markdown) · statistical inference · ARIMA / time seri
 <img src="https://img.shields.io/badge/DAX-F2C811?style=flat&logo=powerbi&logoColor=black">
 <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/matplotlib-11557C?style=flat&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/seaborn-3776AB?style=flat&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/Quarto-75AADB?style=flat&logo=quarto&logoColor=white">
 
@@ -140,27 +117,26 @@ R (tidyverse, ggplot2, R Markdown) · statistical inference · ARIMA / time seri
 
 ---
 
-## GitHub stats 
+## GitHub stats
 
 <div align="center">
-
 <p><img src="https://git-me-stats-production.up.railway.app/card/christianlg2/langs?range=all&theme=midnight" /></p>
-
 <p><img src="https://git-me-stats-production.up.railway.app/card/christianlg2/radar?range=all&theme=midnight" /></p>
-
 </div>
+
+---
 
 <p align="center">
   <a href="https://www.linkedin.com/in/christianlg/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%23B14DFF?style=for-the-badge&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%23B14DFF?style=for-the-badge&logoColor=white">
   </a>
   <a href="https://www.clirago.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23B14DFF?style=for-the-badge&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-%23B14DFF?style=for-the-badge&logoColor=white">
   </a>
   <a href="mailto:christian.lira.gl@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23B14DFF?style=for-the-badge&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-%23B14DFF?style=for-the-badge&logoColor=white">
   </a>
   <a href="https://substack.com/@christianlirag" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-%23B14DFF?style=for-the-badge&logoColor=white" alt="Blog" />
+    <img src="https://img.shields.io/badge/Blog-%23B14DFF?style=for-the-badge&logoColor=white">
   </a>
 </p>
