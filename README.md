@@ -4,7 +4,7 @@
 </p>
 
 ---
-# About Me
+## About Me
 
 `Hello Github Community!` 
 
@@ -103,7 +103,7 @@ Trilingual: English · Español (native) · 普通话 (HSK4)
 
 <br/>
 
-## What I'm building right now
+## Current Projects
 
 | Project | Stack | Status |
 |---|---|---|
