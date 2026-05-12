@@ -3,8 +3,6 @@
   alt="Christian Lira G. — Analytics Engineer" width="1600" />
 </p>
 
-<br/>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/christianlg/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%23B14DFF?style=for-the-badge&logoColor=white">
@@ -19,8 +17,6 @@
     <img src="https://img.shields.io/badge/Blog-%23B14DFF?style=for-the-badge&logoColor=white">
   </a>
 </p>
-
-<br/>
 
 ---
 
