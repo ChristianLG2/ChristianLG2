@@ -43,7 +43,7 @@ Trilingual: English · Español · 普通话
       <a href="https://www.tesla.com/" target="_blank">
         <img src="assets/Tesla_logo.png" alt="Tesla" height="50"><br>
         <sub><b>Tesla</b></sub><br>
-        <sub>Data Operations Analyst</sub><br>
+        <sub>Data Analyst Finance Operations</sub><br>
         <sub>Sep 2023 – Sep 2024</sub>
       </a>
     </td>
