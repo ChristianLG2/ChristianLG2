@@ -144,9 +144,11 @@ Trilingual: English · Español · 普通话
       <td>
         <img src="https://git-me-stats-production.up.railway.app/card/christianlg2/radar?range=all&theme=midnight" />
       </td>
+      <td>
+        <img src="https://git-me-stats-production.up.railway.app/card/ChristianLG2/streak?range=ytd&theme=midnight" />
     </tr>
   </table>
 </div>
 
-[![streak](https://git-me-stats-production.up.railway.app/card/ChristianLG2/streak?range=ytd&theme=midnight)](https://git-me-stats-production.up.railway.app)
+
 
