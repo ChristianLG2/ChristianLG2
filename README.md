@@ -148,3 +148,5 @@ Trilingual: English · Español · 普通话
   </table>
 </div>
 
+[![streak](https://git-me-stats-production.up.railway.app/card/ChristianLG2/streak?range=ytd&theme=midnight)](https://git-me-stats-production.up.railway.app)
+
