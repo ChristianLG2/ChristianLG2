@@ -138,16 +138,16 @@ Trilingual: English · Español · 普通话
 <div align="center">
   <table>
     <tr>
+      <td colspan="2" align="center">
+        <img src="https://git-me-stats-production.up.railway.app/card/ChristianLG2/streak?range=ytd&theme=midnight" />
+      </td>
+    </tr>
+    <tr>
       <td>
         <img src="https://git-me-stats-production.up.railway.app/card/ChristianLG2/langs?range=all&theme=midnight" />
       </td>
       <td>
         <img src="https://git-me-stats-production.up.railway.app/card/ChristianLG2/radar?range=all&theme=midnight" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://git-me-stats-production.up.railway.app/card/ChristianLG2/streak?range=ytd&theme=midnight" />
       </td>
     </tr>
   </table>
