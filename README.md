@@ -124,7 +124,6 @@ Trilingual: English · Español · 普通话
 | **[Orpheus Analytics Platform](https://github.com/OrpheusAnalytics)** | Python · FastAPI · PostgreSQL · Docker · pgvector | Active  ELT + ML + RAG |
 | **[SQL Analytics Portfolio](https://github.com/ChristianLG2/SQL-Analytics-Portfolio)** | T-SQL · dbt · Snowflake · PySpark · Quarto | 4 projects completed 3 in progress |
 | **[WC2026 Match Predictor](https://github.com/ChristianLG2/WorldCup2026-Match-Predictor)** | Python · XGBoost · scikit-learn · SHAP · Quarto | Predictions publish June 11 |
-| **Economic Intelligence RAG API** | LangChain · pgvector · FastAPI | In development |
 | **DP-600 Fabric Analytics Engineer** | Microsoft Fabric · Power BI · DAX | In progress |
 | **IBM Data Engineering Professional** | Data Engineering fundamentals | In progress |
 
