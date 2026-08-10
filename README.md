@@ -23,9 +23,6 @@
 ## About Me
 
 
-
-Analytics Engineer · Data Engineering · Business Intelligence · Applied AI
-
 <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="15" />  ` 你好, Hola, Hello GitHub Community!`
 
 I build end-to-end data and analytics systems, from pipelines and data models to APIs, machine learning, and business intelligence applications.
