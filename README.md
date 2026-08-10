@@ -125,6 +125,7 @@ Languages: English · Español · 普通话
 | Project | Stack | Status |
 |---|---|---|
 | **[Orpheus Analytics Platform](https://github.com/OrpheusAnalytics)** | Python · FastAPI · PostgreSQL · Docker · pgvector | Active  ELT + ML + RAG |
+| **[olist-lakehouse-pipeline](https://github.com/ChristianLG2/olist-lakehouse-pipeline)** | Azure · Databricks · dbt · PySpark | Active | 
 | **[SQL Analytics Portfolio](https://github.com/ChristianLG2/SQL-Analytics-Portfolio)** | T-SQL · dbt · Snowflake · PySpark · Quarto | 4 projects completed 3 in progress |
 | **DP-600 Fabric Analytics Engineer** | Microsoft Fabric · Power BI · DAX | In progress |
 | **IBM Data Engineering Professional** | Data Engineering fundamentals | In progress |
