@@ -22,17 +22,23 @@
 
 ## About Me
 
-<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="15" />  ` 你好, Hola，Hello Github Community!` 
 
-I'm an analytics engineer who builds the full stack, pipelines, models, APIs, and the dashboards on top.
 
-My work lives at the intersection of data engineering,ML, and business context. I care about data that'sgoverned, modeled correctly, and actually used, not just collected.
+Analytics Engineer · Data Engineering · Business Intelligence · Applied AI
 
-Currently building **[Orpheus Analytics](https://github.com/OrpheusAnalytics)** an economic intelligence platform: FRED + BLS pipelines →PostgreSQL + pgvector → GBM forecasting → RAG query API.
+<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="15" />  ` 你好, Hola, Hello GitHub Community!`
 
-Previously shipped production work at **Tesla** and **BYU-Idaho**.
+I build end-to-end data and analytics systems, from pipelines and data models to APIs, machine learning, and business intelligence applications.
 
-Trilingual: English · Español · 普通话
+My work sits at the intersection of data engineering, analytics, applied AI, and business context. I care about data that is governed, modeled correctly, and ultimately used to drive decisions.
+
+Currently building Orpheus Analytics, an economic intelligence platform combining:
+
+FRED + BLS → ELT Pipelines → PostgreSQL + pgvector → ML Forecasting → RAG API
+
+Previously worked on production analytics and data solutions at Tesla and BYU-Idaho.
+
+Languages: English · Español · 普通话
 
 <br/>
 
