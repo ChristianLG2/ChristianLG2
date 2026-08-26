@@ -31,7 +31,7 @@ My work sits at the intersection of data engineering, analytics, applied AI, and
 
 Currently building Orpheus Analytics, an economic intelligence platform combining:
 
-FRED + BLS → ELT Pipelines → PostgreSQL + pgvector → ML Forecasting → RAG API
+FRED + BLS - ELT Pipelines - PostgreSQL + pgvector - ML Forecasting - RAG API
 
 Previously worked on production analytics and data solutions at Tesla and BYU-Idaho.
 
