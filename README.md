@@ -115,6 +115,8 @@ Languages: English · Español · 普通话
 
 <br/>
 
+
+<!-- Data Engineering 
 ## Current Projects
 
 <div align="center">
@@ -126,7 +128,7 @@ Languages: English · Español · 普通话
 | **[SQL Analytics Portfolio](https://github.com/ChristianLG2/SQL-Analytics-Portfolio)** | T-SQL · dbt · Snowflake · PySpark · Quarto | 4 projects completed 3 in progress |
 | **DP-600 Fabric Analytics Engineer** | Microsoft Fabric · Power BI · DAX | In progress |
 | **IBM Data Engineering Professional** | Data Engineering fundamentals | In progress |
-
+-->
 </div>
 
 
