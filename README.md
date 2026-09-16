@@ -86,12 +86,10 @@ Languages: English · Español · 普通话
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/pgvector-4169E1?style=flat&logo=postgresql&logoColor=white">
 
 <!-- ML / AI -->
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white">
 <img src="https://img.shields.io/badge/XGBoost-189AB4?style=flat&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white">
 
 <!-- BI / Visualization -->
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black">
